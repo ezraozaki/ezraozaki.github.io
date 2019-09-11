@@ -8,8 +8,9 @@ preview: /img/when2meet.jpg
 <img src="/img/when2meet.jpg" alt="When2meet"
 	title="A cute kitten" width="300" height="300" />
 
-<img src="/img/when2meet.jpg" alt="When2meet"
-	title="A cute kitten" width="300" height="300" />
+Before             |  After
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 Hello
 haha
