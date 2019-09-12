@@ -12,7 +12,10 @@ Before                      |  After
 ----------------------------|----------------------------
 ![](/img/when2meet now.png) |![](/img/when2meet homepage.jpg)
 
-display(HTML("<table><tr><td><img src='/img/when2meet now.png'></td><td><img src='/img/when2meet homepage.jpg'></td></tr></table>"))
+<tr>
+<td> <img src="/img/when2meet now.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="/img/when2meet homepage.jpg" alt="Drawing" style="width: 250px;"/> </td>
+</tr>
 
 Hello
 haha
