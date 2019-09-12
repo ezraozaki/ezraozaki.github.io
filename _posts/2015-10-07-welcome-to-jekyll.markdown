@@ -11,13 +11,14 @@ Before                                                              |  After
 --------------------------------------------------------------------|--------------------------------------------------------------------
 <img src="/img/when2meet now.png" alt="When2meet" title="Old version" height="200" width="400"/> |<img src="/img/when2meet homepage.jpg" alt="When2meet" title="New version" height="230" />
 
-|    My Roles    | Duration |                 Method                 |
-|:--------------:|:--------:|:--------------------------------------:|
-| UX/UI Designer | 3 months |          Competitive Analysis          |
-|   Interviewer  |          |          Surveys + Interviews          |
-|                |          | Usability Test + Cognitive Walkthrough |
-|                |          |          Heuristic Evaluation          |
-
+<p style="text-align: center;">
+|    My Roles    | Duration |                 Method                 |     Tool    |
+|:--------------:|:--------:|:--------------------------------------:|:-----------:|
+| UX/UI Designer | 3 months |          Competitive Analysis          |    Figma    |
+|   Interviewer  |          |          Surveys + Interviews          | Illustrator |
+|                |          | Usability Test + Cognitive Walkthrough |             |
+|                |          |          Heuristic Evaluation          |             |
+</p>
 
 Hello
 haha
