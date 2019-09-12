@@ -11,8 +11,7 @@ Before                                                              |  After
 --------------------------------------------------------------------|--------------------------------------------------------------------
 <img src="/img/when2meet now.png" alt="When2meet" title="Old version" height="200" width="400"/> |<img src="/img/when2meet homepage.jpg" alt="When2meet" title="New version" height="230" />
 
-<center>
-<table>
+<table align="center">
   <tr>
     <th>My Role</th>
     <th>Duration</th>
@@ -39,7 +38,7 @@ Before                                                              |  After
     <td>Heuristic Evaluation</td>
   </tr>
 </table>
-</center>
+
 
 Hello
 haha
