@@ -7,7 +7,7 @@ preview: /img/when2meet.jpg
 
 Before                                                              |  After
 --------------------------------------------------------------------|--------------------------------------------------------------------
-<img src="/img/when2meet now.png" alt="When2meet" title="Old version" /> |<img src="/img/when2meet homepage.jpg" alt="When2meet" title="New version" />
+<img src="/img/when2meet now.png" alt="When2meet" title="Old version" height="400" /> |<img src="/img/when2meet homepage.jpg" alt="When2meet" title="New version" height="400" />
 
 
 Hello
