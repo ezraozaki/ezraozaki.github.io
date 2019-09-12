@@ -10,7 +10,7 @@ preview: /img/when2meet.jpg
 
 Before                                                              |  After
 --------------------------------------------------------------------|--------------------------------------------------------------------
-<img src="/img/when2meet now.png" alt="Old" style="width: 250px;"/> |<img src="/img/when2meet homepage.jpg" alt="New" style="width: 250px;"/>
+<img src="/img/when2meet now.png" alt="Old" style="width: 200px;"/> |<img src="/img/when2meet homepage.jpg" alt="New" style="width: 200px;"/>
 
 Hello
 haha
