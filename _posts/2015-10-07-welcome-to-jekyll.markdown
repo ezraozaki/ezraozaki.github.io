@@ -10,7 +10,7 @@ preview: /img/when2meet.jpg
 
 Before                      |  After
 ----------------------------|----------------------------
-![](/img/when2meet now.png) |![](/img/when2meet homepage.jpg)
+<img src="/img/when2meet now.png" alt="Drawing" style="width: 250px;"/> |<img src="/img/when2meet homepage.jpg" alt="Drawing" style="width: 250px;"/>
 
 <table><tr>
 <td> <img src="/img/when2meet now.png" alt="Drawing" style="width: 250px;"/> </td>
