@@ -10,7 +10,7 @@ preview: /img/when2meet.jpg
 
 Before                     	  |  After
 :--------------------------------:|:--------------------------------:
-![before](/img/when2meet now.png) |  ![after](/img/when2meet homepage.jpg)
+![](/img/when2meet now.png) |  ![](/img/when2meet homepage.jpg)
 
 Hello
 haha
