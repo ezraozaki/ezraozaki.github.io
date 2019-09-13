@@ -30,7 +30,7 @@ What makes it a good candidate for a redesign is that as it is, the product sole
 <br>
 **PHASE I: Competitive Analysis** <br>
 To learn of which aspects When2meet we could improve, we selected applications for collaborative productivity, particularly those geared towards students as well as other applications with collaborative learning components. This step served as an inspiration in our redesign of the app.
-<br>
+<br><br>
 
 |                                           | whenisgood | Doodle | MeetingPlanner | Google Calendar |
 | :---------------------------------------- | :--------: | :----: | :------------: | :-------------: |
