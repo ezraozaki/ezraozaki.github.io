@@ -32,6 +32,7 @@ preview: /img/when2meet.jpg
 
 To learn of which aspects When2meet we could improve, we selected applications for collaborative productivity, particularly those geared towards students as well as other applications with collaborative learning components. This step served as an inspiration in our redesign of the app.
 <br>
+
 |                                           | whenisgood | Doodle | MeetingPlanner | Google Calendar |
 | :---------------------------------------- | :--------: | :----: | :------------: | :-------------: |
 | **Functionality**                         |            |        |                |                 |
