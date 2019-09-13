@@ -51,7 +51,7 @@ To learn of which aspects When2meet we could improve, we selected applications f
 <br>
 
 **PHASE II: User Research** <br>
-<u>**Background**</u>: This stage we focus on researching the user base of When2meet, with the purpose of understanding their goals, values, lifestyles as well as the needs they have when it comes to scheduler products.
+**<u>Background</u>**: This stage we focus on researching the user base of When2meet, with the purpose of understanding their goals, values, lifestyles as well as the needs they have when it comes to scheduler products.<br>
 **<u>Methods</u>**: To conduct research to learn about When2meet current users, we utilize two distinct research methods -interviews and survey.
 
 Our Study Objectives focused on being able to understand the context in which people are typically in when they seek to use the When2Meet service. This included learning typical age ranges of the person, their current occupation, how often they needed a service to assist them in scheduling meetings or other appointments, their gender, and other characteristics about the user and how/why they approached this particular system. Gathering this kind of information will assist our team in redesigning When2Meet specifically for the user base. We can do this by creating personas based on the information we obtain and work from there. 
