@@ -28,7 +28,7 @@ What makes it a good candidate for a redesign is that as it is, the product sole
 |                |          |          Heuristic Evaluation          |             |
 
 <br>
-**PHASE I: Competitive Analysis**
+**PHASE I: Competitive Analysis** <br>
 To learn of which aspects When2meet we could improve, we selected applications for collaborative productivity, particularly those geared towards students as well as other applications with collaborative learning components. This step served as an inspiration in our redesign of the app.
 <br>
 
@@ -50,7 +50,7 @@ To learn of which aspects When2meet we could improve, we selected applications f
 
 <br>
 
-**PHASE II: User Research**
+**PHASE II: User Research** <br>
 <u>**Background**</u>: This stage we focus on researching the user base of When2meet, with the purpose of understanding their goals, values, lifestyles as well as the needs they have when it comes to scheduler products.
 **<u>Methods</u>**: To conduct research to learn about When2meet current users, we utilize two distinct research methods -interviews and survey.
 
