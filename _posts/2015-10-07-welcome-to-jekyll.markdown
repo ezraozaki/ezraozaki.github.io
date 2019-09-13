@@ -20,10 +20,6 @@ preview: /img/when2meet.jpg
 
 <br>
 
-------
-
-<br>
-
 |    My Roles    | Duration |                 Method                 |    Tool     |
 | :------------: | :------: | :------------------------------------: | :---------: |
 | UI/UX Designer | 3 months |          Competitive Analysis          |    Figma    |
@@ -32,9 +28,6 @@ preview: /img/when2meet.jpg
 |                |          |          Heuristic Evaluation          |             |
 
 <br>
-
-------
-
 **PHASE I: Competitive Analysis**
 
 To learn of which aspects When2meet we could improve, we selected applications for collaborative productivity, particularly those geared towards students as well as other applications with collaborative learning components. This step served as an inspiration in our redesign of the app.
