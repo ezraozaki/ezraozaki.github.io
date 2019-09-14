@@ -112,9 +112,9 @@ After reviewing the data we got, these are the targets that we decided to redesi
 <br><br>
 
 **Wireframes:**
-><img src="/img/wireframe1.JPG" alt="Issue" height="803"/> 
-><img src="/img/wireframe2.JPG" alt="Issue" height="801"/>
-><img src="/img/wireframe3.JPG" alt="Issue" height="402"/>
+><img src="/img/wireframe1.JPG" alt="Issue" height="503"/> 
+><img src="/img/wireframe2.JPG" alt="Issue" height="501"/>
+><img src="/img/wireframe3.JPG" alt="Issue" height="302"/>
 <br><br>
 
 **Final design:**
