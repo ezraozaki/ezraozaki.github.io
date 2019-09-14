@@ -10,7 +10,7 @@ preview: /img/when2meet.jpg
 <br>
 <p style="text-align: center;"><b>About When2Meet</b></p>
 
-**When2meet** ([when2meet.com]()) is a web page based product that helps people to visualize their schedule with others. By being able to select the time that’s working for themselves, every members of a group can see when to arrange a meeting with each other would fit everyone’s schedule the best. On **When2meet** format, members can choose to fill out their weekly schedule availability, or choose specific dates on the calendar and add their availability. **When2meet** is created by 8 DEGREES LLC, a small company that specializes in application and software development. **When2meet** was released in 2012, and the interface has been mostly the same as the year it was released. <br>
+**When2meet** ([when2meet.com]()) is a web-based product that helps people visualize their schedule with others. By being able to select the time that works for themselves, every members of a group can see when to arrange a meeting with each other would fit everyone’s schedule the best. On **When2meet** format, members can choose to fill out their weekly schedule availability, or choose specific dates on the calendar and add their availability. **When2meet** is created by 8 DEGREES LLC, a company that specializes in application and software development. **When2meet** was released in 2012, and the interface has been mostly the same as the year it was released. <br>
 
 What makes it a good candidate for a redesign is that as it is, the product solely fulfills its role and that’s it. The interface is lackluster as it is merely a barebones design made to just get the job done. A lot of improvements could be made which would give it a strong boost over its competitors.
 
@@ -29,7 +29,7 @@ What makes it a good candidate for a redesign is that as it is, the product sole
 
 <br>
 **PHASE I: Competitive Analysis** <br>
-To learn of which aspects When2meet we could improve, we selected applications for collaborative productivity, particularly those geared towards students as well as other applications with collaborative learning components. This step served as an inspiration in our redesign of the app.
+To learn of which aspects When2meet we could improve, we picked four other product, two direct competitors (whenisgood + Doodle) and two indirect competitors (MeetingPlanner + Google Calendar). Doing this provides us some inspirations in our redesign of the app.
 <br><br>
 
 |                                           | whenisgood | Doodle | MeetingPlanner | Google Calendar |
