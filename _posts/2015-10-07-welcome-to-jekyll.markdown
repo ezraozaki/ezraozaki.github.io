@@ -64,7 +64,7 @@ Our Study Objectives focused on being able to understand the context in which pe
 <img src="/img/Carson.jpg" alt="When2meet1" title="Carson" height="320"/>
 <img src="/img/Eddie.jpg" alt="When2meet2" title="Eddie" height="320"/>
 <img src="/img/Andron.jpg" alt="When2meet3" title="Andron" height="320"/>
-<br>
+<br><br>
 
 **PHASE III: DETERMINE USABILITY ISSUES** <br>
 **Usability Tasks**: We conducted six usability tasks with each session lasting around 20 - 25 minutes on average. We recorded the participants while they were performing our usability tasks. For this, we thought up of five tasks that our participants would carry out. These participants were recruited by each individual team member, each team member carried out a complete usability test.<br>
