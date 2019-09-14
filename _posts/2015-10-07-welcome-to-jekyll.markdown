@@ -100,7 +100,19 @@ After reviewing the data we got, these are the targets that we decided to redesi
 
 **Availability Indication**: Through cognitive walkthrough and usability testing, we realize that the instructions regarding how to select availability are not noticeable enough. The font is small and blends in the background which makes it really hard to see. The option of entering both username and password is confusing too. <br>
 
-**Sharing Process**: During usability testing, we found that the email option is not visible enough, and it took users awhile find it. The share-through-Facebook option doesn’t work at all. For the sharing link, we will have to manually use the mouse and drag to copy it, which is not efficient.<br>
+**Sharing Process**: During usability testing, we found that the email option is not visible enough, and it took users awhile find it. The share-through-Facebook option doesn’t work at all. For the sharing link, we will have to manually use the mouse and drag to copy it, which is not efficient.<br><br>
+
+**Sketches:**
+><img src="/img/sketch1.JPG" alt="Issue" height="425"/> 
+><img src="/img/sketch2.JPG" alt="Issue" height="398"/>
+><img src="/img/sketch3.JPG" alt="Issue" height="521"/>
+><img src="/img/sketch3.JPG" alt="Issue" height="521"/>
+><img src="/img/sketch4.JPG" alt="Issue" height="623"/>
+><img src="/img/sketch5.JPG" alt="Issue" height="320"/>
+<br><br>
+**Wireframes:**
+
+
 
 
 
