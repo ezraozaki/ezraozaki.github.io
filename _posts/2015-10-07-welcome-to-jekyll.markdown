@@ -81,10 +81,17 @@ The instructions here are circled in blue. The font is small and too late for it
 <img src="/img/Issue2.JPG" alt="Issue" height="457"/> <br>
 **Issue 3**: The "Event" name box is not clearly something that is required to be edited. 4 of our 5 users found it unclear that it was something to be touched.<br>
 <img src="/img/Issue3.JPG" alt="Issue" height="82"/> <br>
-**Issue 4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br>
-<img src="/img/Issue4.JPG" alt="Issue" height="400"/> <br>
+**Issue 4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br><br>
+<img src="/img/Issue4.JPG" alt="Issue" height="400"/> <br><br>
 **Issue 5**: The interface is overwhelming for new users.<br>
 Specifically, in creating a new event, users are given all the requirements to do so in one screen rather than being given a step by step process. All the information and necessary boxes needed to fill in can be too much for a new user to try and figure out what they need to do with all of the options.
+<img src="/img/Issue5.JPG" alt="Issue" height="296"/> <br><br>
+**Issue 6**: The interface is overwhelming for new users.<br>
+Signing in with an incorrect username will simply create a new user. This is a mistake which is very easy to make, and When2Meet doesn’t provide any mechanism that can prevent this. <br><br>
+**Issue 7**: There is no way to go back to the sign in page if you have already signed into an account. There is no way to redo/undo this action through the interface. You must revisit the event link in order to do so.<br>
+**Issue 8**: Cannot change the title, dates, or time range of an already created event.<br>
+Only the availability and time zone can be changed. No other options of customization are given, even if they are the creator of the event.<br>
+<img src="/img/Issue5.JPG" alt="Issue" height="563"/> <br><br>
 
 
 
