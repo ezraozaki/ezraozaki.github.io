@@ -119,11 +119,12 @@ After reviewing the data we got, these are the targets that we decided to redesi
 
 **Final design:**
 <img src="/img/when2meet homepage.jpg" alt="Issue" height="500"/> 
-
-
-
-
-
+<img src="/img/when2meet 2.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet 3.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet 4.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet 5.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet 6.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet 2.jpg" alt="Issue" height="500"/> 
 
 
 
