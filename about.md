@@ -4,6 +4,14 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+**About Me**<br><br>
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+Hello, my name is Thu Huynh. You can call me Ezra. <br>
+I am currently a 4th year Software Engineering major at University of California, Irvine. My interest is mainly UX research/design, UI design and product management with the goal of utilizing human-centered design methodologies to enhance user experience of all forms.<br><br>
+
+**Fun Facts**<br><br>
+- I'm a rain lover.
+- I'm a good listener. If you ever need someone to vent your problems to, come to me.
+- I'm a picky eater. My motto: "Live to eat"
+
+
