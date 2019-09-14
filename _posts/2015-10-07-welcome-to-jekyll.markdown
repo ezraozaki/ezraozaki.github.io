@@ -28,7 +28,7 @@ What makes it a good candidate for a redesign is that as it is, the product sole
 |                |          |          Heuristic Evaluation          |             |
 
 <br>
-**PHASE I: Competitive Analysis** <br>
+**PHASE I: COMPETITIVE ANALYSIS** <br>
 To learn of which aspects When2meet we could improve, we picked four other product, two direct competitors (whenisgood + Doodle) and two indirect competitors (MeetingPlanner + Google Calendar). Doing this provides us some inspirations in our redesign of the app.
 <br><br>
 
@@ -50,9 +50,9 @@ To learn of which aspects When2meet we could improve, we picked four other produ
 
 <br>
 
-**PHASE II: User Research** <br>
-**<u>Background</u>**: This stage we focus on researching the user base of When2meet, with the purpose of understanding their goals, values, lifestyles as well as the needs they have when it comes to scheduler products.<br>
-**<u>Methods</u>**: To conduct research to learn about When2meet current users, we utilize two distinct research methods -interviews and survey.
+**PHASE II: USER RESEARCH** <br>
+**Background**: This stage we focus on researching the user base of When2meet, with the purpose of understanding their goals, values, lifestyles as well as the needs they have when it comes to scheduler products.<br><br>
+**Methods**: To conduct research to learn about When2meet current users, we utilize two distinct research methods -interviews and survey.
 
 Our Study Objectives focused on being able to understand the context in which people are typically in when they seek to use the When2Meet service. This included learning typical age ranges of the person, their current occupation, how often they needed a service to assist them in scheduling meetings or other appointments, their gender, and other characteristics about the user and how/why they approached this particular system. Gathering this kind of information will assist our team in redesigning When2Meet specifically for the user base. We can do this by creating personas based on the information we obtain and work from there. 
 
@@ -61,6 +61,26 @@ Our Study Objectives focused on being able to understand the context in which pe
 >**Survey**: As a team we decided upon creating a survey which included 20 basic questions that revolved around gathering information about our target population and the context in which they use When2Meet or even other scheduling services. After deciding on what questions we should ask, we each sent out at least 5 invitations for people to take our survey. The recipients of these invitations were those we had the emails in order to ensure that it at least reached 25 people.
 
 **<u>Personas</u>**<br>
-><img src="/img/Carson.jpg" alt="When2meet1" title="Carson" height="320"/>
-><img src="/img/Eddie.jpg" alt="When2meet2" title="Eddie" height="320"/>
-><img src="/img/Andron.jpg" alt="When2meet3" title="Andron" height="320"/>
+<img src="/img/Carson.jpg" alt="When2meet1" title="Carson" height="320"/>
+<img src="/img/Eddie.jpg" alt="When2meet2" title="Eddie" height="320"/>
+<img src="/img/Andron.jpg" alt="When2meet3" title="Andron" height="320"/>
+<br>
+
+**PHASE III: DETERMINE USABILITY ISSUES** <br>
+**Usability Tasks**: We conducted six usability tasks with each session lasting around 20 - 25 minutes on average. We recorded the participants while they were performing our usability tasks. For this, we thought up of five tasks that our participants would carry out. These participants were recruited by each individual team member, each team member carried out a complete usability test.<br><br>
+
+**Cognitive Walkthrough**: By doing this, we figured out different usability issues which may make it difficult for the user to use When2Meet.<br><br>
+
+**Findings**:<br>
+**Issue1**: Changing the calendar/month from the default dates given by the system<br>
+- Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar
+  <img src="/img/Issue1.JPG" alt="Issue" height="300"/>
+
+
+
+
+
+
+
+
+
