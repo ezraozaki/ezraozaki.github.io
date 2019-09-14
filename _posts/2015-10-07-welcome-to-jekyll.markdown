@@ -91,7 +91,7 @@ Signing in with an incorrect username will simply create a new user. This is a m
 **Issue 7**: There is no way to go back to the sign in page if you have already signed into an account. There is no way to redo/undo this action through the interface. You must revisit the event link in order to do so.<br><br>
 **Issue 8**: Cannot change the title, dates, or time range of an already created event.<br>
 Only the availability and time zone can be changed. No other options of customization are given, even if they are the creator of the event.<br>
-<img src="/img/Issue8.JPG" alt="Issue" height="400"/> <br><br>
+<img src="/img/Issue8.JPG" alt="Issue" height="350"/> <br><br>
 
 
 
