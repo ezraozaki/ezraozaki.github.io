@@ -61,6 +61,6 @@ Our Study Objectives focused on being able to understand the context in which pe
 >**Survey**: As a team we decided upon creating a survey which included 20 basic questions that revolved around gathering information about our target population and the context in which they use When2Meet or even other scheduling services. After deciding on what questions we should ask, we each sent out at least 5 invitations for people to take our survey. The recipients of these invitations were those we had the emails in order to ensure that it at least reached 25 people.
 
 **<u>Personas</u>**<br>
-<img src="/img/Carson.jpg" alt="When2meet1" title="Carson" height="300"/>
+<img src="/img/Carson.jpg" alt="When2meet1" title="Carson" height="300" align="center"/>
 <img src="/img/Eddie.jpg" alt="When2meet2" title="Eddie" height="300"/>
 <img src="/img/Andron.jpg" alt="When2meet3" title="Andron" height="300"/>
