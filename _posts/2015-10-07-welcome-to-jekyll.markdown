@@ -84,7 +84,7 @@ The instructions here are circled in blue. The font is small and too late for it
 **Issue 4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br><br>
 <img src="/img/Issue4.JPG" alt="Issue" height="400"/> <br><br>
 **Issue 5**: The interface is overwhelming for new users.<br>
-Specifically, in creating a new event, users are given all the requirements to do so in one screen rather than being given a step by step process. All the information and necessary boxes needed to fill in can be too much for a new user to try and figure out what they need to do with all of the options.
+Specifically, in creating a new event, users are given all the requirements to do so in one screen rather than being given a step by step process. All the information and necessary boxes needed to fill in can be too much for a new user to try and figure out what they need to do with all of the options.<br>
 <img src="/img/Issue5.JPG" alt="Issue" height="296"/> <br><br>
 **Issue 6**: The interface is overwhelming for new users.<br>
 Signing in with an incorrect username will simply create a new user. This is a mistake which is very easy to make, and When2Meet doesn’t provide any mechanism that can prevent this. <br><br>
@@ -92,7 +92,15 @@ Signing in with an incorrect username will simply create a new user. This is a m
 **Issue 8**: Cannot change the title, dates, or time range of an already created event.<br>
 Only the availability and time zone can be changed. No other options of customization are given, even if they are the creator of the event.<br>
 <img src="/img/Issue8.JPG" alt="Issue" height="350"/> <br><br>
+**PHASE IV: REDESIGN** <br>
+After reviewing the data we got, these are the targets that we decided to redesign:	<br><br>
+**Homepage**: Many participants in our usability test found that the homepage is overwhelming and confusing (especially for new users). Too much information on the same page makes it difficult for them to figure out where to start and what they need to do. <br>
 
+**Event Creation Process**: This one is related to the homepage. All the steps combined in the homepage make the users confused as we indicated above. Also, when choosing the dates, the lack of scroll bar makes it difficult to change the month/year (4/5 users in our usability test had trouble with this task). <br>
+
+**Availability Indication**: Through cognitive walkthrough and usability testing, we realize that the instructions regarding how to select availability are not noticeable enough. The font is small and blends in the background which makes it really hard to see. The option of entering both username and password is confusing too. <br>
+
+**Sharing Process**: During usability testing, we found that the email option is not visible enough, and it took users awhile find it. The share-through-Facebook option doesn’t work at all. For the sharing link, we will have to manually use the mouse and drag to copy it, which is not efficient.<br>
 
 
 
