@@ -67,14 +67,14 @@ Our Study Objectives focused on being able to understand the context in which pe
 <br>
 
 **PHASE III: DETERMINE USABILITY ISSUES** <br>
-**Usability Tasks**: We conducted six usability tasks with each session lasting around 20 - 25 minutes on average. We recorded the participants while they were performing our usability tasks. For this, we thought up of five tasks that our participants would carry out. These participants were recruited by each individual team member, each team member carried out a complete usability test.<br><br>
+**Usability Tasks**: We conducted six usability tasks with each session lasting around 20 - 25 minutes on average. We recorded the participants while they were performing our usability tasks. For this, we thought up of five tasks that our participants would carry out. These participants were recruited by each individual team member, each team member carried out a complete usability test.<br>
 
-**Cognitive Walkthrough**: By doing this, we figured out different usability issues which may make it difficult for the user to use When2Meet.<br><br>
+**Cognitive Walkthrough**: By doing this, we figured out different usability issues which may make it difficult for the user to use When2Meet.<br>
 
 **Findings**:<br>
 **Issue1**: Changing the calendar/month from the default dates given by the system<br>
-- Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar
-  <img src="/img/Issue1.JPG" alt="Issue" height="300"/>
+- Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar<br>
+  <img src="/img/Issue1.JPG" alt="Issue" height="200"/>
 
 
 
