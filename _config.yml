@@ -1,7 +1,7 @@
 # Site settings
 title: Ezra Huynh
 email: thuah@uci.edu
-description: > A designer
+description: A designer
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ezraozaki.github.io" # the base hostname & protocol for your site
