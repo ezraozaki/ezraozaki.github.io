@@ -103,12 +103,12 @@ After reviewing the data we got, these are the targets that we decided to redesi
 **Sharing Process**: During usability testing, we found that the email option is not visible enough, and it took users awhile find it. The share-through-Facebook option doesn’t work at all. For the sharing link, we will have to manually use the mouse and drag to copy it, which is not efficient.<br><br>
 
 **Sketches:**
-><img src="/img/sketch1.JPG" alt="Issue" height="225"/> 
-><img src="/img/sketch2.JPG" alt="Issue" height="298"/>
-><img src="/img/sketch3.JPG" alt="Issue" height="321"/>
-><img src="/img/sketch3.JPG" alt="Issue" height="321"/>
-><img src="/img/sketch4.JPG" alt="Issue" height="423"/>
-><img src="/img/sketch5.JPG" alt="Issue" height="220"/>
+><img src="/img/sketch1.JPG" alt="Issue" height="125"/> 
+><img src="/img/sketch2.JPG" alt="Issue" height="198"/>
+><img src="/img/sketch3.JPG" alt="Issue" height="221"/>
+><img src="/img/sketch3.JPG" alt="Issue" height="221"/>
+><img src="/img/sketch4.JPG" alt="Issue" height="323"/>
+><img src="/img/sketch5.JPG" alt="Issue" height="120"/>
 <br><br>
 **Wireframes:**
 ><img src="/img/wireframe1.JPG" alt="Issue" height="803"/> 
