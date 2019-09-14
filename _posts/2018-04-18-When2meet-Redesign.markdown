@@ -109,7 +109,7 @@ After reviewing the data we got, these are the targets that we decided to redesi
 ><img src="/img/wireframe3.JPG" alt="Issue" height="302"/>
 <br><br>
 
-**Final design:**
+**Final design:**<br>
 <img src="/img/when2meet homepage.jpg" alt="Issue" height="400"/> 
 <img src="/img/when2meet 2.jpg" alt="Issue" height="400"/> 
 <img src="/img/when2meet 3.jpg" alt="Issue" height="400"/> 
