@@ -118,8 +118,8 @@ After reviewing the data we got, these are the targets that we decided to redesi
 <img src="/img/when2meet 6.jpg" alt="Issue" height="450"/> 
 <img src="/img/when2meet 7.jpg" alt="Issue" height="450"/> 
 <br><br>
-**TEAM** <br>
-Phuoc Trinh, Gordon Chan, Matthew Herrera, Haiming Wu<br>
+**TEAM** <br><br>
+>Phuoc Trinh, Gordon Chan, Matthew Herrera, Haiming Wu<br>
 
 |    My Roles    | Duration |                 Method                 |    Tool     |
 | :------------: | :------: | :------------------------------------: | :---------: |
