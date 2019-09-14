@@ -118,7 +118,7 @@ After reviewing the data we got, these are the targets that we decided to redesi
 <br><br>
 
 **Final design:**
-
+<img src="/img/when2meet homepage.jpg" alt="Issue" height="500"/> 
 
 
 
