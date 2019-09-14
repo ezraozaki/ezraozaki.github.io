@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-**About Me**<br><br>
+**About Me**<br>
 
 Hello, my name is Thu Huynh. You can call me Ezra. <br>
 I am currently a 4th year Software Engineering major at University of California, Irvine. My interest is mainly UX research/design, UI design and product management with the goal of utilizing human-centered design methodologies to enhance user experience of all forms.<br><br>
