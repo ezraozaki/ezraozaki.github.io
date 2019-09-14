@@ -106,6 +106,11 @@ After reviewing the data we got, these are the targets that we decided to redesi
 ><img src="/img/sketch1.JPG" alt="Issue" height="425"/> 
 ><img src="/img/sketch2.JPG" alt="Issue" height="398"/>
 ><img src="/img/sketch3.JPG" alt="Issue" height="521"/>
+><img src="/img/sketch3.JPG" alt="Issue" height="521"/>
+><img src="/img/sketch4.JPG" alt="Issue" height="623"/>
+><img src="/img/sketch5.JPG" alt="Issue" height="320"/>
+<br><br>
+**Wireframes:**
 
 
 
