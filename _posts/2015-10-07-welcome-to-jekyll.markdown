@@ -76,7 +76,7 @@ Our Study Objectives focused on being able to understand the context in which pe
 - Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar<br>
   <img src="/img/Issue1.JPG" alt="Issue" height="191"/>
 - 4/5 users that we tested all had trouble figuring out how to scroll to their desired date. 3 of our users tried using the scroll wheel   while hovering over the calendar at first, while the other person tried to click and drag down.
-
+**Issue2**:
 
 
 
