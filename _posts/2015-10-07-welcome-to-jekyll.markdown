@@ -78,9 +78,11 @@ Our Study Objectives focused on being able to understand the context in which pe
 - 4/5 users that we tested all had trouble figuring out how to scroll to their desired date. 3 of our users tried using the scroll wheel   while hovering over the calendar at first, while the other person tried to click and drag down.<br>
 **Issue2**: The instructions to select availability is not immediately noticeable<br>
 - The instructions here are circled in blue. The font is small and too late for it to be displaying important information about how to     interact with the system.<br>
-  <img src="/img/Issue2.JPG" alt="Issue" height="457"/>
-**Issue3**:
-
+  <img src="/img/Issue2.JPG" alt="Issue" height="457"/> <br>
+**Issue3**: The "Event" name box is not clearly something that is required to be edited. 4 of our 5 users found it unclear that it was something to be touched.<br>
+  <img src="/img/Issue3.JPG" alt="Issue" height="82"/> <br>
+**Issue4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br>
+  <img src="/img/Issue3.JPG" alt="Issue" height="400"/> <br>
 
 
 
