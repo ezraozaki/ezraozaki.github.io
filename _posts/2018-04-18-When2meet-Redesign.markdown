@@ -110,13 +110,13 @@ After reviewing the data we got, these are the targets that we decided to redesi
 <br><br>
 
 **Final design:**
-<img src="/img/when2meet homepage.jpg" alt="Issue" height="450"/> 
-<img src="/img/when2meet 2.jpg" alt="Issue" height="450"/> 
-<img src="/img/when2meet 3.jpg" alt="Issue" height="450"/> 
-<img src="/img/when2meet 4.jpg" alt="Issue" height="450"/> 
-<img src="/img/when2meet 5.jpg" alt="Issue" height="450"/> 
-<img src="/img/when2meet 6.jpg" alt="Issue" height="450"/> 
-<img src="/img/when2meet 7.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet homepage.jpg" alt="Issue" height="400"/> 
+<img src="/img/when2meet 2.jpg" alt="Issue" height="400"/> 
+<img src="/img/when2meet 3.jpg" alt="Issue" height="400"/> 
+<img src="/img/when2meet 4.jpg" alt="Issue" height="400"/> 
+<img src="/img/when2meet 5.jpg" alt="Issue" height="400"/> 
+<img src="/img/when2meet 6.jpg" alt="Issue" height="400"/> 
+<img src="/img/when2meet 7.jpg" alt="Issue" height="400"/> 
 <br><br>
 **TEAM** <br>
 ><br>**Phuoc Trinh, Gordon Chan, Matthew Herrera, Haiming Wu**<br><br>
