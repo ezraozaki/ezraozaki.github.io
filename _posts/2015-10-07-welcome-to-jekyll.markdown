@@ -7,7 +7,7 @@ preview: /img/when2meet.jpg
 ---
 
 
-
+<br>
 <p style="text-align: center;"><b>About When2Meet</b></p>
 
 **When2meet** ([when2meet.com]()) is a web page based product that helps people to visualize their schedule with others. By being able to select the time that’s working for themselves, every members of a group can see when to arrange a meeting with each other would fit everyone’s schedule the best. On **When2meet** format, members can choose to fill out their weekly schedule availability, or choose specific dates on the calendar and add their availability. **When2meet** is created by 8 DEGREES LLC, a small company that specializes in application and software development. **When2meet** was released in 2012, and the interface has been mostly the same as the year it was released. <br>
