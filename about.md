@@ -12,8 +12,8 @@ I am currently a 4th year Software Engineering major at University of California
 **Fun Facts**
 - I'm a rain lover. It smells so good.
 - I'm a good listener. If you ever need someone to vent your problems to, come to me.
-- I'm a picky eater. My motto: "Live to eat" <br>
-<br>
+- I'm a picky eater. My motto: "Live to eat" <br><br>
+
 **Hobbies**
 - Photography
 - Drawing
