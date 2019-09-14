@@ -104,7 +104,7 @@ After reviewing the data we got, these are the targets that we decided to redesi
 
 **Sketches:**
 ><img src="/img/sketch1.JPG" alt="Issue" height="225"/> 
-><img src="/img/sketch2.JPG" alt="Issue" height="198"/>
+><img src="/img/sketch2.JPG" alt="Issue" height="298"/>
 ><img src="/img/sketch3.JPG" alt="Issue" height="321"/>
 ><img src="/img/sketch3.JPG" alt="Issue" height="321"/>
 ><img src="/img/sketch4.JPG" alt="Issue" height="423"/>
