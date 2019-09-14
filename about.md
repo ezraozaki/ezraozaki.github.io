@@ -7,7 +7,7 @@ permalink: /about/
 **About Me**<br>
 
 Hello, my name is Thu Huynh. You can call me Ezra. <br>
-I am currently a 4th year Software Engineering major at University of California, Irvine. My interest is mainly UX research/design, UI design and product management with the goal of utilizing human-centered design methodologies to enhance user experience of all forms.<br><
+I am currently a 4th year Software Engineering major at University of California, Irvine. My interest is mainly UX research/design, UI design and product management with the goal of utilizing human-centered design methodologies to enhance user experience of all forms.<br>
 [LinkedIn](https://www.linkedin.com/in/ezraozaki/)<br>
 [Instagram](https://www.instagram.com/1st_genius/?hl=en)
 <br><br>
