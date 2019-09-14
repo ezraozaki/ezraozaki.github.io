@@ -72,16 +72,16 @@ Our Study Objectives focused on being able to understand the context in which pe
 **Cognitive Walkthrough**: By doing this, we figured out different usability issues which may make it difficult for the user to use When2Meet.<br>
 
 **Findings**:<br><br>
-1. **Issue1**: Changing the calendar/month from the default dates given by the system
-  - Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar<br>
-  <img src="/img/Issue1.JPG" alt="Issue" height="191"/>
-  - 4/5 users that we tested all had trouble figuring out how to scroll to their desired date. 3 of our users tried using the scroll wheel   while hovering over the calendar at first, while the other person tried to click and drag down. <br>
-2. **Issue2**: The instructions to select availability is not immediately noticeable
+**Issue1**: Changing the calendar/month from the default dates given by the system
+Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar<br>
+<img src="/img/Issue1.JPG" alt="Issue" height="191"/><br>
+4/5 users that we tested all had trouble figuring out how to scroll to their desired date. 3 of our users tried using the scroll wheel   while hovering over the calendar at first, while the other person tried to click and drag down. <br><br>
+**Issue2**: The instructions to select availability is not immediately noticeable
   - The instructions here are circled in blue. The font is small and too late for it to be displaying important information about how to     interact with the system.<br>
   <img src="/img/Issue2.JPG" alt="Issue" height="457"/> <br>
-3. **Issue3**: The "Event" name box is not clearly something that is required to be edited. 4 of our 5 users found it unclear that it was something to be touched.<br>
+**Issue3**: The "Event" name box is not clearly something that is required to be edited. 4 of our 5 users found it unclear that it was something to be touched.<br>
   <img src="/img/Issue3.JPG" alt="Issue" height="82"/> <br>
-4. **Issue4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br>
+**Issue4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br>
   <img src="/img/Issue3.JPG" alt="Issue" height="400"/> <br>
 
 
