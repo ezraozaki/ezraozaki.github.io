@@ -20,14 +20,6 @@ What makes it a good candidate for a redesign is that as it is, the product sole
 
 <br>
 
-|    My Roles    | Duration |                 Method                 |    Tool     |
-| :------------: | :------: | :------------------------------------: | :---------: |
-| UI/UX Designer | 3 months |          Competitive Analysis          |    Figma    |
-|  Interviewer   |          |          Surveys + Interviews          | Illustrator |
-|                |          | Usability Test + Cognitive Walkthrough |             |
-|                |          |          Heuristic Evaluation          |             |
-
-<br>
 **PHASE I: COMPETITIVE ANALYSIS** <br>
 To learn of which aspects When2meet we could improve, we picked four other product, two direct competitors (whenisgood + Doodle) and two indirect competitors (MeetingPlanner + Google Calendar). Doing this provides us some inspirations in our redesign of the app.
 <br><br>
@@ -118,14 +110,25 @@ After reviewing the data we got, these are the targets that we decided to redesi
 <br><br>
 
 **Final design:**
-<img src="/img/when2meet homepage.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 2.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 3.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 4.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 5.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 6.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 7.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet homepage.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet 2.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet 3.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet 4.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet 5.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet 6.jpg" alt="Issue" height="450"/> 
+<img src="/img/when2meet 7.jpg" alt="Issue" height="450"/> 
+<br><br>
+**TEAM** <br>
+Phuoc Trinh, Gordon Chan, Matthew Herrera, Haiming Wu<br>
 
+|    My Roles    | Duration |                 Method                 |    Tool     |
+| :------------: | :------: | :------------------------------------: | :---------: |
+| UI/UX Designer | 3 months |          Competitive Analysis          |    Figma    |
+|  Interviewer   |          |          Surveys + Interviews          | Illustrator |
+|                |          | Usability Test + Cognitive Walkthrough |             |
+|                |          |          Heuristic Evaluation          |             |
+
+<br>
 
 
 
