@@ -124,7 +124,7 @@ After reviewing the data we got, these are the targets that we decided to redesi
 <img src="/img/when2meet 4.jpg" alt="Issue" height="500"/> 
 <img src="/img/when2meet 5.jpg" alt="Issue" height="500"/> 
 <img src="/img/when2meet 6.jpg" alt="Issue" height="500"/> 
-<img src="/img/when2meet 2.jpg" alt="Issue" height="500"/> 
+<img src="/img/when2meet 7.jpg" alt="Issue" height="500"/> 
 
 
 
