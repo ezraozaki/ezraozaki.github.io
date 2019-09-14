@@ -78,8 +78,8 @@ Our Study Objectives focused on being able to understand the context in which pe
 - 4/5 users that we tested all had trouble figuring out how to scroll to their desired date. 3 of our users tried using the scroll wheel   while hovering over the calendar at first, while the other person tried to click and drag down.<br>
 **Issue2**: The instructions to select availability is not immediately noticeable<br>
 - The instructions here are circled in blue. The font is small and too late for it to be displaying important information about how to     interact with the system.<br>
-  <img src="/img/Issue2.JPG" alt="Issue" height="400"/>
-
+  <img src="/img/Issue2.JPG" alt="Issue" height="457"/>
+**Issue3**:
 
 
 
