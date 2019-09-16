@@ -21,6 +21,6 @@ I am currently a 4th year Software Engineering major at University of California
 - Photography
 - Drawing
 - Cooking
-- Playing League (Hey I feed everyone!)
+- Playing League (Hey I feed everyone!)<br><br>
 
 
