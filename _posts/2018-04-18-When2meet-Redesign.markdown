@@ -124,7 +124,7 @@ After reviewing the data we got, these are the targets that we decided to redesi
 |    My Roles    | Duration |                 Method                 |    Tool     |
 | :------------: | :------: | :------------------------------------: | :---------: |
 | UI/UX Designer | 3 months |          Competitive Analysis          |    Figma    |
-|  Interviewer   |          |          Surveys + Interviews          | Illustrator |
+|  Interviewer   |          |          Surveys + Interviews          | |
 |                |          | Usability Test + Cognitive Walkthrough |             |
 |                |          |          Heuristic Evaluation          |             |
 
