@@ -19,4 +19,9 @@ These apps, if being used properly, can help women understand their bodies and e
 
 **METHOD**<br>
 
-To do this, we first chose the most popular apps on both Android and iOS platform (31 total) and conducted app evaluation to compare the goals that they claim to support and the tracking indicators they offer. We also downloaded and analyzed all the reviews of these apps then sorted them by goals, issues, positive aspects and keywords. This way, we can gain insight into what the users’ pain points are and in which way these apps could be improved.
+To do this, we first chose the most popular apps on both Android and iOS platform (31 total) and conducted app evaluation to compare the goals that they claim to support and the tracking indicators they offer. We also downloaded and analyzed all the reviews of these apps then sorted them by goals, issues, positive aspects and keywords. This way, we can gain insight into what the users’ pain points are and in which way these apps could be improved.<br><br>
+
+**RESULT**<br>
+
+Based on the app store pages, period tracking is the most commonly offered goals (29/31), then Try to conceive (21/31) and Avoid conception which is 9. And only 7 apps offer the option to track pregnancy.<br>
+**Note**:  Only 14 of them ask the user goal at the beginning, even though they claim to support multiple goals.
