@@ -32,5 +32,5 @@ Most of the time these apps uses a default interface for every cases; they lack 
 >"If I’m trying to prevent getting pregnant it won’t show me when I’m ovulating even if I put that I am not taking any birth control. So I have to choose the option for trying to conceive to be able to see my fertility window and avoid pregnancy"<br>
 >"I wish it had an option for if you’re pregnant so that the app don't keep telling you are period is late but over all great app"<br><br>
 
-Another thing we found after analyzing the reviews is that most women come to these apps with a holistic approach, which means they use them for multiple goals in different stages of their life
+Another thing we found after analyzing the reviews is that most women come to these apps with a holistic approach, which means they use them for multiple goals in different stages of their life. For instance, one may only track their period at first, but after getting married, they decide to try to conceive. And once they get pregnant, they probably want to track their pregnancy as well.
 
