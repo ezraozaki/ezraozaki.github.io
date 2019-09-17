@@ -51,7 +51,7 @@ Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk 
 |:-----------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="/img/Period tracking homepage.jpg" height="400"/> | <img src="/img/Trying to conceive.jpg" height="400"/> | <img src="/img/Avoid pregnancy homepage.jpg" height="400"/> |
 
-When we analyzed the reviews, the lack of pregnancy tracking option is one of the most common complaints. In our design, for pregnancy tracking, the homepage will tell the user where they are in the pregnancy, also the option to upload ultrasound pictures of their baby and to track their body measurements and nutrition intake.<br>
+<br>When we analyzed the reviews, the lack of pregnancy tracking option is one of the most common complaints. In our design, for pregnancy tracking, the homepage will tell the user where they are in the pregnancy, also the option to upload ultrasound pictures of their baby and to track their body measurements and nutrition intake.<br>
 Goal detection is another feature that we added, for example, if the user hasn't updated the app for a while, a popup screen will show up and ask if their goal changes. If they say yes, then the app will proceed to ask what their new goal is.
 Or maybe they didn't want to track their pregnancy and came back using the app to track period after their baby was born, there should be an option to ask if they want to reuse their last cycles for prediction or start from scratch.
 
@@ -59,5 +59,5 @@ Or maybe they didn't want to track their pregnancy and came back using the app t
 |:--------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="/img/Pregnancy Tracking.jpg" height="400"/> | <img src="/img/Pop up for goal change.jpg" height="400"/> | <img src="/img/Pop up confirmation page.jpg" height="400"/> |
 
-b
+<br>
 
