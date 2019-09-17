@@ -30,5 +30,7 @@ Based on the app store pages, period tracking is the most commonly offered goals
 
 Most of the time these apps uses a default interface for every cases; they lack the option to tailor the interface based on the users’ goals. Some reviews we got from the app stores related to the interface issue and the lack of pregnancy tracking:
 >"If I’m trying to prevent getting pregnant it won’t show me when I’m ovulating even if I put that I am not taking any birth control. So I have to choose the option for trying to conceive to be able to see my fertility window and avoid pregnancy"<br>
->"I wish it had an option for if you’re pregnant so that the app don't keep telling you are period is late but over all great app"
+>"I wish it had an option for if you’re pregnant so that the app don't keep telling you are period is late but over all great app"<br><br>
+
+Another thing we found after analyzing the reviews is that most women come to these apps with a holistic approach, which means they use them for multiple goals in different stages of their life
 
