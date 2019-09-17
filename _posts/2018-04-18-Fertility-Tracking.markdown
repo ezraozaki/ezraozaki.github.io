@@ -48,4 +48,4 @@ If the goal is **Trying To Conceive**, we inform the user whether that day is th
 Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk of pregnancy. And the default items are intimacy logging, Protection and Pills.<br>
 |                                                             |                                                       |                                                             |
 |-------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
-| <img src="/img/Period tracking homepage.jpg" height="500"/> | <img src="/img/Trying to conceive.jpg" height="500"/> | <img src="/img/Avoid pregnancy homepage.jpg" height="500"/> |
+| <img src="/img/Period tracking homepage.jpg" height="400"/> | <img src="/img/Trying to conceive.jpg" height="400"/> | <img src="/img/Avoid pregnancy homepage.jpg" height="400"/> |
