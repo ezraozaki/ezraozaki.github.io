@@ -39,7 +39,7 @@ Another thing we found after analyzing the reviews is that most women come to th
 The **first problem** is selecting the goal, and people have different goals when they use the app. As I mentioned, among 31 only 14 apps ask the users what their goal is.
 The most common goals are Period Tracking, Trying To Conceive and Avoid pregnancy.
 
-|                                                                                                | Proposed design                                 |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| Besides asking their goal, our design also offer the ability to customize and create new goal. | <img src="/img/Landing page.jpg" height="500"/> |
+|                                                                                                    | Proposed design                                 |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Besides asking their goal, our design<br> also offer the ability to customize and create new goal. | <img src="/img/Landing page.jpg" height="500"/> |
 
