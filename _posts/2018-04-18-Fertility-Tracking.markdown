@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fertility Tracking Tool"
+title:  "Exploring the Design of Fertility Tracking Tools"
 date:   2018-04-18 15:39:40
 preview: /img/fertility cir.jpg
 
@@ -19,12 +19,14 @@ These apps, if being used properly, can help women understand their bodies and e
 
 **METHOD**<br>
 
-To do this, we first chose the most popular apps on both Android and iOS platform (31 total) and conducted app evaluation to compare the goals that they claim to support and the tracking indicators they offer. We also downloaded and analyzed all the reviews of these apps then sorted them by goals, issues, positive aspects and keywords. This way, we can gain insight into what the users’ pain points are and in which way these apps could be improved.<br><br>
+To do this, we first chose the most popular apps on both Android and iOS platform (31 total) and conducted app evaluation to compare the goals that they claim to support and the tracking indicators they offer. We also downloaded and analyzed all the reviews of these apps then sorted them by goals, issues, positive aspects and keywords. This way, we can gain insight into what the users’ pain points are and in which way these apps could be improved.<br>
 
 **RESULT**<br>
 
 Based on the app store pages, period tracking is the most commonly offered goals (29/31), then Try to conceive (21/31) and Avoid conception which is 9. And only 7 apps offer the option to track pregnancy.<br>
 **Note**:  Only 14 of them ask the user goal at the beginning, even though they claim to support multiple goals. Below are some examples of apps that do ask for the user's goal: <br>
 
-<img src="/img/fertility goals.jpg" height="400"/> <br><br>
+<img src="/img/fertility goals.jpg" height="422"/> <br><br>
+
+Most of the time these apps uses a default interface for every cases, they lack the option to tailor the interface based on the users’ goals
 
