@@ -24,4 +24,7 @@ To do this, we first chose the most popular apps on both Android and iOS platfor
 **RESULT**<br>
 
 Based on the app store pages, period tracking is the most commonly offered goals (29/31), then Try to conceive (21/31) and Avoid conception which is 9. And only 7 apps offer the option to track pregnancy.<br>
-**Note**:  Only 14 of them ask the user goal at the beginning, even though they claim to support multiple goals.
+**Note**:  Only 14 of them ask the user goal at the beginning, even though they claim to support multiple goals. Below are some examples of apps that do ask for the user's goal: <br>
+
+<img src="/img/fertility goals.jpg" height="400"/> <br><br>
+
