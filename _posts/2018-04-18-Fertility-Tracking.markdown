@@ -45,7 +45,8 @@ The most common goals are Period Tracking, Trying To Conceive and Avoid pregnanc
 
 After knowing the user's goal, we have these goal-based interface. For **Period tracking**, the homepage will inform them when they have their period and the option to log their period, the default indicators in this mode are flow, moods, and symptoms, they can always add more indicators if they want. The icon at the lower right corner is for information about all the available indicators that the app offers. And the icon at the lower left is for instantly changing goal.<br>
 If the goal is **Trying To Conceive**, we inform the user whether that day is their fertile day, and the default indicators here are Intimacy logging, cervical mucus, BBT (could be either entered manually or syncing with devices)<br>
-Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk of pregnancy. And the default items are intimacy logging, Protection and Pills.<br>
-|                                                             |                                                       |                                                             |
-|-------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
+Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk of pregnancy. And the default items are intimacy logging, Protection and Pills.
+
+|                       Period Tracking                       |                   Trying to conceive                  |                       Avoid Pregnancy                       |
+|:-----------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="/img/Period tracking homepage.jpg" height="400"/> | <img src="/img/Trying to conceive.jpg" height="400"/> | <img src="/img/Avoid pregnancy homepage.jpg" height="400"/> |
