@@ -36,9 +36,16 @@ Another thing we found after analyzing the reviews is that most women come to th
 
 **ISSUES and POTENTIAL SOLUTIONS**<br>
 
-The **first problem** is selecting the goal, and people have different goals when they use the app. As I mentioned, among 31 only 14 apps ask the users what their goal is.
+The first problem is selecting the goal, and people have different goals when they use the app. As I mentioned, among 31 only 14 apps ask the users what their goal is.
 The most common goals are Period Tracking, Trying To Conceive and Avoid pregnancy.
 
 |                                                                                                        | Proposed design                                 |
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | Besides asking their goal, our design<br> also offer the ability to customize and<br> create new goal. | <img src="/img/Landing page.jpg" height="500"/> |
+
+After knowing the user's goal, we have these goal-based interface. For **Period tracking**, the homepage will inform them when they have their period and the option to log their period, the default indicators in this mode are flow, moods, and symptoms, they can always add more indicators if they want. The icon at the lower right corner is for information about all the available indicators that the app offers. And the icon at the lower left is for instantly changing goal.<br>
+If the goal is **Trying To Conceive**, we inform the user whether that day is their fertile day, and the default indicators here are Intimacy logging, cervical mucus, BBT (could be either entered manually or syncing with devices)<br>
+Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk of pregnancy. And the default items are intimacy logging, Protection and Pills.<br>
+|                                                             |                                                       |                                                             |
+|-------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|
+| <img src="/img/Period tracking homepage.jpg" height="500"/> | <img src="/img/Trying to conceive.jpg" height="500"/> | <img src="/img/Avoid pregnancy homepage.jpg" height="500"/> |
