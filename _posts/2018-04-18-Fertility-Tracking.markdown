@@ -55,7 +55,7 @@ When we analyzed the reviews, the lack of pregnancy tracking option is one of th
 Goal detection is another feature that we added, for example, if the user hasn't updated the app for a while, a popup screen will show up and ask if their goal changes. If they say yes, then the app will proceed to ask what their new goal is.
 Or maybe they didn't want to track their pregnancy and came back using the app to track period after their baby was born, there should be an option to ask if they want to reuse their last cycles for prediction or start from scratch.
 
-|                         Period Tracking                        |                     Trying to conceive                    |                       Avoid Pregnancy                       |
+|                         Pregnancy Tracking                        |                     Detect goal change                    |                       Set up new goal                       |
 |:--------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------:|
-| <img src="/img/Pregnancy Tracking homepage.jpg" height="400"/> | <img src="/img/Pop up for goal change.jpg" height="400"/> | <img src="/img/Pop up confirmation page.jpg" height="400"/> |
+| <img src="/img/Pregnancy Tracking.jpg" height="400"/> | <img src="/img/Pop up for goal change.jpg" height="400"/> | <img src="/img/Pop up confirmation page.jpg" height="400"/> |
 
