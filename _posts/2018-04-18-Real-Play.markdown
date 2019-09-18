@@ -61,4 +61,8 @@ The application will be built around the idea of forming parent groups, which fo
 | <img src="/img/realplay/Login Screen.jpg" height="400"/> | <img src="/img/realplay/Parents Profile.jpg" height="400"/> |  <img src="/img/realplay/Parents Dashboard.jpg" height="400"/>  |
 |  <img src="/img/realplay/Group pages.jpg" height="400"/> |   <img src="/img/realplay/Meetup pages.jpg" height="400"/>  | <img src="/img/realplay/Meetup pages cancel.jpg" height="400"/> |
 
- 
+<br>**Note**: 
+- A child’s profile page is the same as the parents except there is not a list of children and there is not “friends bar”.
+- There is not an option to search new groups. You must know someone in the group to get added which improves the safety of RealPlay.
+- Child responding to event notifies parents.
+- children cannot create groups<br><br>
