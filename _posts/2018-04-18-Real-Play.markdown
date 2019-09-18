@@ -15,7 +15,26 @@ In today's current climate, time spent using screen based systems (smart phones,
 - Children (5-14) (including various categories of children, disabled, home schooled, etc.)
 - Nanny/babysitter/temporary guardian<br>
 
-**OTHER STAKEHOLDERS:**<br>
+**OTHER STAKEHOLDERS**<br>
+- Project managers
+- Developers
+- Testers
+- RealPlay company
+- Government entities/laws<br>
+
+**GOALS**<br>
+- To enable children to be able to meet up
+- To enable parents to coordinate meetups (communicate)
+- To ensure the safety of users and prevent fraudulent users<br> 
+
+**ASSUMPTIONS**<br>
+- Kids have access to cellphones
+- Households have internet access
+- Parents are involved in being responsible for safety, transportation, and communication for younger children
+- Control flow cross platforms will have the same logical flow
+- Parents communicate with caretakers outside of the application OR parents allow and trust caretakers to use their account.<br>
+
+
 
 
  
