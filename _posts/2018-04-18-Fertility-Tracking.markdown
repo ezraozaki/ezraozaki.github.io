@@ -43,7 +43,7 @@ The most common goals are Period Tracking, Trying To Conceive and Avoid pregnanc
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | Besides asking their goal, our design<br> also offer the ability to customize and<br> create new goal. | <img src="/img/Landing page.jpg" height="500"/> |
 
-After knowing the user's goal, we have these goal-based interface. For **Period tracking**, the homepage will inform them when they have their period and the option to log their period, the default indicators in this mode are flow, moods, and symptoms, they can always add more indicators if they want. The icon at the lower right corner is for information about all the available indicators that the app offers. And the icon at the lower left is for instantly changing goal.<br>
+<br>After knowing the user's goal, we have these goal-based interface. For **Period tracking**, the homepage will inform them when they have their period and the option to log their period, the default indicators in this mode are flow, moods, and symptoms, they can always add more indicators if they want. The icon at the lower right corner is for information about all the available indicators that the app offers. And the icon at the lower left is for instantly changing goal.<br>
 If the goal is **Trying To Conceive**, we inform the user whether that day is their fertile day, and the default indicators here are Intimacy logging, cervical mucus, BBT (could be either entered manually or syncing with devices)<br>
 Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk of pregnancy. And the default items are intimacy logging, Protection and Pills.
 
@@ -59,5 +59,14 @@ Or maybe they didn't want to track their pregnancy and came back using the app t
 |:--------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="/img/Pregnancy Tracking.jpg" height="400"/> | <img src="/img/Pop up for goal change.jpg" height="400"/> | <img src="/img/Pop up confirmation page.jpg" height="400"/> |
 
-<br>
+<br> Another aspect that we want to improve on is **visualization**. The most common ways to visualize data in these fertility apps are calendar and graph. However, for calendar, the problem is it's difficult to see the pattern of their data whereas for graph, the problems is there are only a few indicators offered. And in all the apps that we evaluated, most graphs go with pre-defined indicator which the user cannot modify.<br>
+So our approach to tackle this problem is to provide the user customizable graphs in which they can remove or add indicators that they want to track. Since people with different goals have different needs, they want to see, analyze and compare different things. For example, people who are TTC want to see their BBT, or people who track their period want to monitor their sleep duration and cramps. Or there're some people want to track their migraine and how it changes throughout their cycles.
+Below is our current design for the customizable graph. The user can scroll down and select the indicators that they want to track, and it will show up on the graph. In this case, this person want to track their BBT, sleep duration, migraine and cramps. They can also compare different cycles to each other.
+
+|             Select indicators            |                  Compare cycles                  |
+|:----------------------------------------:|:------------------------------------------------:|
+| <img src="/img/Graph.jpg" height="400"/> | <img src="/img/Graph compare.jpg" height="400"/> |
+
+
+
 
