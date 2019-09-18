@@ -51,5 +51,6 @@ The application will be built around the idea of forming parent groups, which fo
 | Messaging                                                      | Parents can send messages to people in their friend list by holding the “Add” button on those people’s profile pages. They also have an option to send messages through the group pages. Children whose parents are in the same group can communicate with each other.                                                                                                                                                                                                                                                                                                                            |
 | Recommend nearby destinations<br> based on geographic location | When planning new meetups, the system will recommend nearby public playgrounds or activity based on the address of all parents in the group and details specified in the meetup. For example,  RealPlay  would not recommend a location that was closed during the time of the meetup.                                                                                                                                                                                                                                                                                                            |
 
-
+<br>**SKETCHES**<br>
+<img src="/img/realplay/sketch.jpg" height="600"/> <br><br>
  
