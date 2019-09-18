@@ -72,7 +72,7 @@ The application will be built around the idea of forming parent groups, which fo
 
 |    My Roles    | Duration |    Tool     |
 | :------------: | :------: | :---------: |
-| UI/UX Designer | 1 months |    Figma    |
+| UI/UX Designer | 1 month  |    Figma    |
 
 
 <br>
