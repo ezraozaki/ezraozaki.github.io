@@ -47,9 +47,10 @@ The most common goals are Period Tracking, Trying To Conceive and Avoid pregnanc
 If the goal is **Trying To Conceive**, we inform the user whether that day is their fertile day, and the default indicators here are Intimacy logging, cervical mucus, BBT (could be either entered manually or syncing with devices)<br>
 Similarly for **Avoid Pregnancy**, we warn them if that day they have high risk of pregnancy. And the default items are intimacy logging, Protection and Pills.<br>
 
-|                       Period Tracking                       |                   Trying to conceive                  |                       Avoid Pregnancy                       |
-|:-----------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------------:|
-| <img src="/img/Period tracking homepage.jpg" height="400"/> | <img src="/img/Trying to conceive.jpg" height="400"/> | <img src="/img/Avoid pregnancy homepage.jpg" height="400"/> |
+|                       Period Tracking                       |                       Trying to conceive                       |                       Avoid Pregnancy                       |
+|:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|
+| <img src="/img/Period tracking homepage.jpg" height="400"/> |      <img src="/img/Trying to conceive.jpg" height="400"/>     | <img src="/img/Avoid pregnancy homepage.jpg" height="400"/> |
+| <img src="/img/Period tracking calendar.jpg" height="400"/> | <img src="/img/Trying to conceive calendar.jpg" height="400"/> | <img src="/img/Avoid pregnancy calendar.jpg" height="400"/> |
 
 <br>When we analyzed the reviews, the lack of pregnancy tracking option is one of the most common complaints. In our design, for pregnancy tracking, the homepage will tell the user where they are in the pregnancy, also the option to upload ultrasound pictures of their baby and to track their body measurements and nutrition intake.<br>
 Goal detection is another feature that we added, for example, if the user hasn't updated the app for a while, a popup screen will show up and ask if their goal changes. If they say yes, then the app will proceed to ask what their new goal is.
