@@ -65,4 +65,14 @@ The application will be built around the idea of forming parent groups, which fo
 - A child’s profile page is the same as the parents except there is not a list of children and there is not “friends bar”.
 - There is not an option to search new groups. You must know someone in the group to get added which improves the safety of RealPlay.
 - Child responding to event notifies parents.
-- Children cannot create groups<br><br>
+- Children cannot create groups<br>
+
+**TEAM** <br>
+><br>**Kevin Florio, Janice Hsu, Matthew Herrera, Ashton Garcia**<br><br>
+
+|    My Roles    | Duration |    Tool     |
+| :------------: | :------: | :---------: |
+| UI/UX Designer | 1 months |    Figma    |
+
+
+<br>
