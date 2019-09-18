@@ -10,7 +10,7 @@ preview: /img/realplay/realplay icon.jpg
  
 In today's current climate, time spent using screen based systems (smart phones, tv, game systems, etc.) has been increasing in the younger generations. The system we are creating helps to decrease the amount of time spent using screens and increase the amount of time spent playing in the real world. In cooperation with the RealPlay company, this system will be a multiplatform, interactive, and social media resembling system that will help connect parents to parents and children to children in order to create friend groups and plan events or hangout times for their children (depending on age).<br>
 
-**TARGET AUDIENCES**<br>
+**TARGET AUDIENCES**
 - Parents
 - Children (5-14) (including various categories of children, disabled, home schooled, etc.)
 - Nanny/babysitter/temporary guardian<br>
