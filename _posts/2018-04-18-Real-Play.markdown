@@ -59,6 +59,6 @@ The application will be built around the idea of forming parent groups, which fo
 |                                                          |                                                             |                                                                 |
 |:--------------------------------------------------------:|:-----------------------------------------------------------:|:---------------------------------------------------------------:|
 | <img src="/img/realplay/Login Screen.jpg" height="400"/> | <img src="/img/realplay/Parents Profile.jpg" height="400"/> |  <img src="/img/realplay/Parents Dashboard.jpg" height="400"/>  |
-|  <img src="/img/realplay/Groups page.jpg" height="400"/> |   <img src="/img/realplay/Meetup pages.jpg" height="400"/>  | <img src="/img/realplay/Meetup pages cancel.jpg" height="400"/> |
+|  <img src="/img/realplay/Group pages.jpg" height="400"/> |   <img src="/img/realplay/Meetup pages.jpg" height="400"/>  | <img src="/img/realplay/Meetup pages cancel.jpg" height="400"/> |
 
  
