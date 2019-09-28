@@ -69,6 +69,5 @@ Below is our current design for the **customizable graph**. The user can scroll 
 | <img src="/img/Graph.jpg" height="400"/> | <img src="/img/Graph compare.jpg" height="400"/> |
 
 
-<br>
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fyf6OdZ4KQzDMSSJWTlWC3V%2FFertility%3Fnode-id%3D1%253A4944%26viewport%3D465%252C183%252C0.40938442945480347%26scaling%3Dscale-down" allowfullscreen></iframe>
+
 
