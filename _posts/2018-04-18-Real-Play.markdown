@@ -68,7 +68,7 @@ The application will be built around the idea of forming parent groups, which fo
 - Children cannot create groups<br>
 
 **TEAM** <br>
-><br>**Kevin Florio, Janice Hsu, Matthew Herrera, Ashton Garcia**<br><br>
+><br>**Kevin Florio, Thu Huynh, Janice Hsu, Matthew Herrera, Ashton Garcia**<br><br>
 
 |    My Roles    | Duration |    Tool     |
 | :------------: | :------: | :---------: |
