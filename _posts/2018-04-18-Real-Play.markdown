@@ -1,78 +1,95 @@
 ---
 layout: post
-title:  "Real Play - <br>Conceptual Project"
+title:  "Paciolan - <br>SDM WebApp Project"
 date:   2018-04-18 15:39:40
 preview: /img/Paciolan/thumbnail.jpg
 
 ---
  
-**MOTIVATION**<br>
+**INTRODUCTION**<br>
  
-In today's current climate, time spent using screen based systems (smart phones, tv, game systems, etc.) has been increasing in the younger generations. The system we are creating helps to decrease the amount of time spent using screens and increase the amount of time spent playing in the real world. In cooperation with the RealPlay company, this system will be a multiplatform, interactive, and social media resembling system that will help connect parents to parents and children to children in order to create friend groups and plan events or hangout times for their children (depending on age).<br>
+The project is a web-based application that involves UX design and implementation of the design. We are tasked with the job of redesigning a previous model and adding additional features and functionalities. This application uses messaging architecture to manage metadata for events such as enabling near-field communication (NFC), event relations, etc. This project utilizes tools like React, JavaScript, NodeJS, Express, and Kafka. In this project, we will mostly focus on the Front End web application and managing metadata from events of the application. This project will be catering to customers/clients like the Pac8 collegiate teams and others that utilize the main tool. The tool we are developing will mostly focus on allowing our clients to modify or enable a few features for their events, and to display metadata.<br>
 
 **TARGET AUDIENCES**
-- Parents
-- Children (5-14) (including various categories of children, disabled, home schooled, etc.)
-- Nanny/babysitter/temporary guardian<br>
-
-**OTHER STAKEHOLDERS**<br>
-- Project managers
-- Developers
-- Testers
-- RealPlay company
-- Government entities/laws<br>
+- Directors of ticket operations<br>
 
 **GOALS**<br>
-- To enable children to be able to meet up
-- To enable parents to coordinate meetups (communicate)
-- To ensure the safety of users and prevent fraudulent users<br> 
+- Allow users to conduct freeform search
+- Allow users to make a bulk update to multiple events
+- Allow users to save changes to the metadata database<br> 
 
 **ASSUMPTIONS**<br>
-- Kids have access to cellphones
-- Households have internet access
-- Parents are involved in being responsible for safety, transportation, and communication for younger children
-- Control flow cross platforms will have the same logical flow
-- Parents communicate with caretakers outside of the application OR parents allow and trust caretakers to use their account.<br>
+- Users of the application will already have all the necessary information to access the tool.
+- The majority of our users will be accessing the web-app via devices with a screen size over 900 pixels.
+- Control flow cross platforms will have the same logical flow.<br>
 
-**OUR APPROACH**<br>
-The application will be built around the idea of forming parent groups, which focuses on accountability between parents in group. To join a new group, parents need permissions from those who are already in the group. Parents can add children to their profile, and children’s activities in the app are supervised by parents. Here children are dependent users, and their meetups have to be approved by parents. By doing this, the safety of children is maximized.
+**FUNCTIONAL REQUIREMENTS**<br>
+Functional Requirements
+Use Case Diagram<br>
+<img src="/img/Paciolan/useCase.jpg" height="600"/> <br>
+Figure 1.1. Use-Case Diagram for SDM Web App’s Corporate Site.
 
-| Functionality                                                  | Context                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Create account                                                 | Parents/caretakers are able to create their own accounts as well as children’s accounts. Accounts are created and verified using users’ emails; after that, they have the option to link RealPlay to their social media accounts.Parents/caretakers provide personal information such as Name, Age, Photo, Gender, City. Exact Home Address and Radius are also required for public playgrounds suggestions and how far willing to drive (but won’t be publicly available). For children, parents may supply their kids’ top 3 interests. They can later give the children account to their kids. |
-| Add children                                                   | Parents can add children's accounts to their profile page. Children’s photos will be displayed right under parents’ profile picture. This displaying bar will scale based on the numbers of children. Clicking on these photos will lead to children’s profile pages.                                                                                                                                                                                                                                                                                                                             |
-| Create new group                                               | Parents can create new groups on their dashboard by selecting the button, “New Group” on the navigation bar. They will be asked to write the group name and description of the group. This group will show up on parents’ friends’ dashboards and their kids’ dashboards.                                                                                                                                                                                                                                                                                                                         |
-| Invite other parents                                           | Parents can invite other parents (who are in their friend list) to the meetup that they create. Invite option will show up in a drop down menu when holding the “Add” button on the invitee’s profile page. Parents can see who send them invitations on the dashboard.                                                                                                                                                                                                                                                                                                                           |
-| Join new groups (for parents)                                  | Groups created by parents’ friends will show up on their dashboard. Parents can request to join it, and they can only join if someone in the group accept the request.                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Set up/join new meetups<br> (for children)                     | Children are free to create their own meetups or respond to other meetups from their accounts. Children can specify time, location, and desired activity. These meetups show up on the parents’ dashboard and must then wait for the parents’ approval.                                                                                                                                                                                                                                                                                                                                           |
-| Approve children’s meetups                                     | In this approach, parents supervise children’s activities. All the meetups that children create or respond to will show up on parents’ dashboard, and they can either approve or disapprove those. Once approved, parents will also be added to the group’s participants.                                                                                                                                                                                                                                                                                                                         |
-| Cancel meetups                                                 | In the meetup page, parents can cancel meetups which they are no longer able to join. They will be prompted for the cancellation reason. After cancelling, all the participants of that meetups will receive messages regarding this.                                                                                                                                                                                                                                                                                                                                                             |
-| Add friend                                                     | Only parents can add friends by press the “Add” button on people’s profile pages (not holding). A red bubble will appear with the number of new friend request users have received.                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Messaging                                                      | Parents can send messages to people in their friend list by holding the “Add” button on those people’s profile pages. They also have an option to send messages through the group pages. Children whose parents are in the same group can communicate with each other.                                                                                                                                                                                                                                                                                                                            |
-| Recommend nearby destinations<br> based on geographic location | When planning new meetups, the system will recommend nearby public playgrounds or activity based on the address of all parents in the group and details specified in the meetup. For example,  RealPlay  would not recommend a location that was closed during the time of the meetup.                                                                                                                                                                                                                                                                                                            |
+USE CASE  1   Conduct freeform search in the SDM
+Priority: MUST HAVE
 
-<br>**SKETCHES**<br><br>
-<img src="/img/realplay/sketch.jpg" height="600"/> <br><br>
+Basic Flow
+1.	The user logs in to the SDM system.
+2.	The user types keywords into the search box.
+3.	The user hits enter.
+4.	The results matching the keywords will be displayed in the search result page. 
 
-**MOCKUPS**<br>
 
-|                                                          |                                                             |                                                                 |
-|:--------------------------------------------------------:|:-----------------------------------------------------------:|:---------------------------------------------------------------:|
-| <img src="/img/realplay/Login Screen.jpg" height="400"/> | <img src="/img/realplay/Parents Profile.jpg" height="400"/> |  <img src="/img/realplay/Parents Dashboard.jpg" height="400"/>  |
-|  <img src="/img/realplay/Group pages.jpg" height="400"/> |   <img src="/img/realplay/Meetup pages.jpg" height="400"/>  | <img src="/img/realplay/Meetup pages cancel.jpg" height="400"/> |
 
-<br>**Note**: 
-- A child’s profile page is the same as the parents except there is not a list of children and there is not “friends bar”.
-- There is not an option to search new groups. You must know someone in the group to get added which improves the safety of RealPlay.
-- Child responding to event notifies parents.
-- Children cannot create groups<br>
+USE CASE  2   Make a bulk update
+Priority: MUST HAVE
+
+Basic Flow
+1.	The user logs in to the SDM system.
+2.	The user types keywords into the search box.
+3.	The user hits enter.
+4.	The results matching the keywords will be displayed. 
+5.	The user presses the update button.
+6.	Checkboxes will appear next to results.
+7.	The user checks events they want to update.
+8.	The user selects the fields of the events they want to update.
+9.	The user hits confirm.
+10.	The user is presented with a confirmation (summary) page.
+
+
+
+USE CASE  3   Save changes to the metadata database
+Priority: MUST HAVE
+
+Basic Flow
+1.	The user hits confirm to confirm their changes.
+2.	Once the user makes changes to the event(s), the current metadata of those will be retrieved from MTD
+3.	The system compares the old data with the new ones and makes an update.
+4.	The metadata then will be saved to Cassandra.
+
+
+USE CASE  4  Users should be able to enable integration for each of the events, (SMS, check-in, NFC)
+Priority: MUST HAVE
+
+Basic Flow
+1.	The user enters their search
+2.	Search results come up with the events related
+3.	Application displays enabled integration for SMS, check-in, NFC on each event
+4.	Users select a single event
+5.	User choose to enable or disable their preferred settings on the detail page (which already exists)
+
+
+<br>
+**UI DESIGN**<br>
+<img src="/img/Paciolan/search.png" height="600"/> <br>
+
+
 
 **TEAM** <br>
-><br>**Kevin Florio, Thu Huynh, Janice Hsu, Matthew Herrera, Ashton Garcia**<br><br>
+><br>**Thu Huynh, Phuoc Trinh, Sazeda Sultana, Gordon Chan, Lucy Cao**<br><br>
 
 |    My Roles    | Duration |    Tool     |
 | :------------: | :------: | :---------: |
-| UI/UX Designer | 1 month  |    Figma    |
+| Front-end Developer | 6 months  |    React.js    |
 
 
 <br>
