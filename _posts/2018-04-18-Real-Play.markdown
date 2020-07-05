@@ -23,13 +23,12 @@ The project is a web-based application that involves UX design and implementatio
 - The majority of our users will be accessing the web-app via devices with a screen size over 900 pixels.
 - Control flow cross platforms will have the same logical flow.<br>
 
-**FUNCTIONAL REQUIREMENTS**<br>
-Functional Requirements
-Use Case Diagram<br>
-<img src="/img/Paciolan/useCase.jpg" height="600"/> <br>
+**FUNCTIONAL REQUIREMENTS**<br> <br>
+
+<img src="/img/Paciolan/useCase.png" height="600"/> <br>
 Figure 1.1. Use-Case Diagram for SDM Web App’s Corporate Site.
 
-USE CASE  1   Conduct freeform search in the SDM
+**USE CASE 1**   Conduct freeform search in the SDM
 Priority: MUST HAVE
 
 Basic Flow
@@ -40,7 +39,7 @@ Basic Flow
 
 
 
-USE CASE  2   Make a bulk update
+**USE CASE 2**   Make a bulk update
 Priority: MUST HAVE
 
 Basic Flow
@@ -57,7 +56,7 @@ Basic Flow
 
 
 
-USE CASE  3   Save changes to the metadata database
+**USE CASE 3**   Save changes to the metadata database
 Priority: MUST HAVE
 
 Basic Flow
@@ -67,7 +66,7 @@ Basic Flow
 4.	The metadata then will be saved to Cassandra.
 
 
-USE CASE  4  Users should be able to enable integration for each of the events, (SMS, check-in, NFC)
+**USE CASE 4**  Users should be able to enable integration for each of the events, (SMS, check-in, NFC)
 Priority: MUST HAVE
 
 Basic Flow
@@ -79,10 +78,29 @@ Basic Flow
 
 
 <br>
-**UI DESIGN**<br>
-<img src="/img/Paciolan/search.png" height="600"/> <br>
+**Software DESIGN**<br><br>
+I was assigned to work on the front-end for the Search page, the Bulk Update page and the filtering function for the Search Result page using React.js with Webpack. <br><br>
+Unfortunately, this is an internal web application, so it isn't public outside of Paciolan and their partners. I've include some of the mock-ups which I then implemented below.<br><br>
+**Search Page**<br> 
+In the old design, the search function was conducted only using the event code and season code. Following below is the new design that aims to convert it into a freeform search where the user can enter any keyword relevant to the event into the search box, and the system will return them a list of matching events. <br><br>
 
+<img src="/img/Paciolan/search.png"/> <br><br>
 
+**Search Result Page** 
+The 3 key functions that the search result page has to accomplish are to lead the user to an individual item detail page, to give a brief visualize of the state of each item, and to lead the user to the bulk update page. <br>
+Notable features: 
+- Filter events based on NFC/SMS/Barcode Sharing status
+- Sort events based on date/name <br><br>
+<img src="/img/Paciolan/filter.png"/> <br><br>
+
+**Bulk Update**<br><br>
+The page displays a list of events taken from the search result page for users to choose from to be bulk updated. It shows different bulk update options and to enable or disable SMS, NFC. <br>
+Notable features: 
+- Update multiple events at once
+- Provide errors prevention mechanisms
+- Calling API endpoint to save the changes to the database
+- Sort events based on date/name <br><br>
+<img src="/img/Paciolan/bulk.png"/> <br><br>
 
 **TEAM** <br>
 ><br>**Thu Huynh, Phuoc Trinh, Sazeda Sultana, Gordon Chan, Lucy Cao**<br><br>
