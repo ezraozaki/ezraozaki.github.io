@@ -28,7 +28,7 @@ The project is a web-based application that involves UX design and implementatio
 <img src="/img/Paciolan/useCase.png" height="600"/> <br>
 Figure 1.1. Use-Case Diagram for SDM Web App’s Corporate Site.
 
-**USE CASE 1**   Conduct freeform search in the SDM
+**USE CASE 1**   Conduct freeform search in the SDM<br>
 Priority: MUST HAVE
 
 Basic Flow
@@ -39,7 +39,7 @@ Basic Flow
 
 
 
-**USE CASE 2**   Make a bulk update
+**USE CASE 2**   Make a bulk update<br>
 Priority: MUST HAVE
 
 Basic Flow
@@ -56,7 +56,7 @@ Basic Flow
 
 
 
-**USE CASE 3**   Save changes to the metadata database
+**USE CASE 3**   Save changes to the metadata database<br>
 Priority: MUST HAVE
 
 Basic Flow
@@ -66,7 +66,7 @@ Basic Flow
 4.	The metadata then will be saved to Cassandra.
 
 
-**USE CASE 4**  Users should be able to enable integration for each of the events, (SMS, check-in, NFC)
+**USE CASE 4**  Users should be able to enable integration for each of the events, (SMS, check-in, NFC)<br>
 Priority: MUST HAVE
 
 Basic Flow
