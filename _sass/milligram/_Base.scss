@@ -25,9 +25,10 @@ html {
 }
 
 // Default body styles
+// 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 body {
 	color: $color-secondary;
-	font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+	font-family: 'IM Fell English', serif;
 	font-size: 1.6em; // Currently ems cause chrome bug misinterpreting rems on body element
 	font-weight: 300;
 	letter-spacing: .01em;
