@@ -2,10 +2,9 @@
 title: Ezra Huynh
 email: thuah@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
-  A designer
+  A person who designs and try to be good at it
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ezraozaki.github.io" # the base hostname & protocol for your site
-twitter_username: whoknowimhere
 github_username:  ezraozaki
 exclude: [vendor]
 # Build settings
