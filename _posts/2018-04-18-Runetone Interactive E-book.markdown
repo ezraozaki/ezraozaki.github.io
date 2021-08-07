@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Paciolan - <br>SDM WebApp Project"
+title:  "Runestone Interactive E-book"
 date:   2018-04-18 15:39:40
-preview: /img/Paciolan/pac.jpg
+preview: /img/runestone/logo_small.png
 
 ---
  
