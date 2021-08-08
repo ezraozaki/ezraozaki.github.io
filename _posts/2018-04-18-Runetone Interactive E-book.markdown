@@ -118,9 +118,14 @@ have the same number location to avoid confusion for students. Below are two exa
 <img src="/img/runestone/number.jpg"/> <br><br>
 <img src="/img/runestone/number1.jpg"/> <br><br>
 
-**Finding 1: The three distinctive attempts rule for using the “Help me” button seems confusing to students.**
+**Finding 4: The three distinctive attempts rule for using the “Help me” button seems confusing to students.**
 Although not every participant used the “help me” button function while doing the usability test, we noticed that, for participants who tried the “help me” button, they did not fully understand the three attempts rule to activate the “help me” button. One of the participants tried moving around the code blocks several times but still wasn't able to use the “help me” button and showed her frustrations about it.
 <img src="/img/runestone/popup.jpg"/> <br>
 
 **Recommendation:** <br>
-We suggest that having a more clear explanation of the “three distinct full attempts” can help students to better understand how to use the “help me” button and reduce the frustration from not being able to solve the problem and get help. <br>
+We suggest that having a more clear explanation of the “three distinct full attempts” can help students to better understand how to use the “help me” button and reduce the frustration from not being able to solve the problem and get help. <br><br>
+
+**DISCUSSION**
+There might be some shortcomings within our usability tests. We had five participants and all were women. This is not fully representative of all students currently enrolled in SI 206 because the participants in the usability tests were not diverse in terms of gender. Additionally, the small sample size does not allow us to capture everything. <br>
+Behavior using the check me button and the Help Me button might be different because they are being watched. Participants may not have used the Help Me button as often while being observed. This is important because it affects the data we can collect and analyze. Students have completed some of the problems, so that could affect the way they tackled some of the tasks. Depending on the problem, some users talked through their process of completing the problem, while others redid the problems entirely. This discrepancy is important to recognize because it results in how users did the tasks and data can be slightly different for each participant as a result of this. <br>
+The students’ confidence level when explaining things such as if they know why the Help Me button removed something seemed low. When they were explaining things, their tone made it sound like they were not certain. This raised conversation in our debrief session about students not fully understanding and convincing themselves that they know and understand how the code works because they see the correct answer. <br> <br>
