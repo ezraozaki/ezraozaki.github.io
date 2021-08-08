@@ -116,4 +116,11 @@ questions but also in many other sections like assignments and some of the chapt
 We suggest that all the questions in the problem should be numbered in the same way and
 have the same number location to avoid confusion for students. Below are two examples of lacking numbering and inconsistent numbering
 <img src="/img/runestone/number.jpg"/> <br><br>
-<img src="/img/runestone/number1.jpg"/> <br>
+<img src="/img/runestone/number1.jpg"/> <br><br>
+
+**Finding 1: The three distinctive attempts rule for using the “Help me” button seems confusing to students.**
+Although not every participant used the “help me” button function while doing the usability test, we noticed that, for participants who tried the “help me” button, they did not fully understand the three attempts rule to activate the “help me” button. One of the participants tried moving around the code blocks several times but still wasn't able to use the “help me” button and showed her frustrations about it.
+<img src="/img/runestone/popup.jpg"/> <br>
+
+**Recommendation:** <br>
+We suggest that having a more clear explanation of the “three distinct full attempts” can help students to better understand how to use the “help me” button and reduce the frustration from not being able to solve the problem and get help. <br>
