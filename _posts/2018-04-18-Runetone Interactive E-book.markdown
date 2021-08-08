@@ -28,8 +28,7 @@ The project is to review the open-source e-book platform Runestone Interactive a
 
 **METHODS**<br> 
  1. User interview
- 2. Survey
- 3. Usability Test
+ 2. Usability Test
  
  **I. INTERVIEW** <br>
 We interviewed 4 students currently taking Data-Oriented Programming (SI 206).
@@ -63,13 +62,33 @@ and came up with a list of recommendations to solve these problems.
 
 <br>
  
- **II. SURVEY**
-Given our previous findings from four participant interviews, our final client recommendation required further understanding of the larger SI 206 student experience with the e-book. Based on this earlier study, the following four areas required further investigation:
-- How do our users differ from one another?
-- What is the users’ current product experience?
-- Do students find the platform feedback in problem sets to be helpful, specifically with the ‘Check’ and ‘Help Me’ buttons?
-- How do students feel about the assignments section of the e-book?
+**II. USABILITY TEST** <br>
+As a follow-up to our team’s previous research findings on the Runestone Interactive E-book, this report will focus on usability tests that we conducted with current students in SI 206. A usability test is asking the user to complete various tasks to see if the user can complete the tasks or not and observe how the user completes tasks. Given our findings throughout the semester, we developed research questions for the usability tests:
+1. How easy is it for users to solve the mixed-up code question?
+2. How easy is it for users to solve the write code question?
+3. Where and how do students find answers when trying to solve the assignment
+problem?
+4. How easy/difficult is it for a user to navigate between the assignment tab and the rest
+of the book?
+5. Is it convenient for students if they want to check their assignment scores? <br>
+We believe it is important to ask these questions so that we can understand the users by observing and analyzing how they interact with the e-book. The usability tests gave us valuable data to determine what challenges users encounter and generate ways to solve their problems. <br>
+As a group, we prepared 5 different tasks along with pertaining subtasks for each user to execute. These 5 tasks were selected because they were areas identified to benefit from design changes from both the survey findings and heuristics evaluation. To confirm these tasks, a detailed copy was shared for final approval with the client. Next, the 5 tasks were vetted by the results of a pilot study which confirmed the usefulness of the usability test outcome and the appropriate tasks for our target audience. One pilot test was conducted over Zoom and the participant had previously studied python as part of their undergraduate studies at a non-UM university. This participant was selected to participate in the pilot study because they were familiar with python but had not practiced it in recent years, were new to the e-book, and their availability matched that of the team. One concern we had prior to the pilot test was the length of the usability tasks, but after the pilot test, the current tasks were confirmed to be an appropriate length (about 30 mins not including debrief and post-questionnaire). <br>
 
-To reach a larger audience while also trying to understand their attitudes and experiences with the interactive e-book, a targeted survey was conducted. The survey was distributed to 144 students in the Winter 2021 semester class of students taking SI 206 with Professor Ericson.
+**Participants:** 5 students in SI 206 <br>
 
-<img src="/img/Paciolan/bulk.png"/> <br><br>
+An interest survey was sent to the students in this class via email by the professor. All selected participants were provided with a $20 gift card. Five students from SI 206 participated in the usability test and had very similar demographics (i.e., same course, gender, and were undergraduate students). The exception to this was the students’ comfort levels with programming in python, coding experience prior to SI 206, as well as the students expected class grade (A and C). Due to not having a variety of grade ranges, only one student with an expected class grade of C was included. The client was interested in learning from both students that were comfortable with python and those not so comfortable (neutral). Given these expectations in characteristics, as well as their availability, the following participants were selected to participate in the study.
+
+**Order of description:** gender, college level, coding experience prior to SI 206, expected grade,
+comfort level with python at the time of the usability test.
+- P1: Female – undergraduate, novice, A, comfortable
+- P2: Female – undergraduate, novice, C, comfortable
+- P3: Female – undergraduate, novice, A, neutral
+- P4: Female – undergraduate, intermediate, A, neutral
+- P5: Female – undergraduate, novice, A, neutral <br>
+
+**Test setting, equipment, and recording methods:** <br>
+Prior to each test, the team decided that each member would serve as a moderator for one test while the other 3 served as note-takers, timekeepers, and participated in the debrief of all tests. One team member moderated two tests. All tests took place over Zoom and required the participants to share their screen and maintain their camera on to observe facial expressions. All participants were informed about their right to withdraw from the test at any time, were aware that their grade would not be affected by participating in this study, and that their participation would be kept anonymous. The participants all provided their permission to take part in the study and be recorded for the purposes of the study. <br>
+
+**Finding 1: The Assignment page’s problem score/status is hard to track**
+2 out of 5 participants mentioned that they would prefer if the score is visible on the Assignment page. One participant specifically pointed out that seeing no score available out in the Assignment made her feel unsure and scared that she might miss an assignment. Below is the current state of the assigment page:
+<img src="/img/runestone/assignment.jpg"/> <br><br>
