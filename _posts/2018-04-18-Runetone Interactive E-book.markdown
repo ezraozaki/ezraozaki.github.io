@@ -53,12 +53,13 @@ high-level thoughts. In this exercise, we discovered four key findings on the hi
 category and the fifth one being student demographics. Based on the findings, we
 started our brainstorming session where we listed out the frustrations we discovered
 and came up with a list of recommendations to solve these problems.
+<br>
 |Finding| Recommendation |
 |--|--|
 | 1. One of our findings is regarding mixed-up code and write-code problems. Mixed-up code problems are valuable for students' initial learning, but it can be difficult when working in a group because each student has a different order. Participant 3 stated, “I like [Mixed-up code problems]… I feel like just doing them a bunch of times helps me understand the structure of like, a class, for example.” Others have also reported information that backs up this statement. Participant 1 conveyed that mixed-up code problems help with learning and understanding indentation. A challenge with mixed-up code problems arises when working in groups. One interviewee informed us that the questions are the same, however, the code blocks on the left side are usually in a different order. | - Explanations for why code is wrong. This will help students develop a deeper understanding of Python. <br>- For group assignments, code blocks should be consistent. This will make the group work experience better because everyone’s code will match up. |
 |For write-up code questions, students find them to be most helpful but desire feedback when they input the wrong code. Some students like to write the code themselves because they find it helpful for their learning. Participant 2 likes the load history feature of the write-up code question because it provides easy access to previous code that was written. There was one main thing that students want to be improved with write-code problems: receiving feedback. Students have said “Fill-in-the-blank problems do not tell you what the correct answer is” and “There is no feedback received for writing your own code.”|- Add a “Help Me” button to write-code problems that can check the code line by line and inform the student what is right and what is wrong and why.<br>- An alternative is showing other possible codes that can work as well. This will let students know that there can be multiple ways to code something.|
 
-
+<br>
  
  **II. SURVEY**
 Given our previous findings from four participant interviews, our final client recommendation required further understanding of the larger SI 206 student experience with the e-book. Based on this earlier study, the following four areas required further investigation:
