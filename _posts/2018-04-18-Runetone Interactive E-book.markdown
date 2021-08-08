@@ -115,5 +115,5 @@ questions but also in many other sections like assignments and some of the chapt
 **Recommendation:** <br>
 We suggest that all the questions in the problem should be numbered in the same way and
 have the same number location to avoid confusion for students. Below are two examples of lacking numbering and inconsistent numbering
-<img src="/img/runestone/number.jpg"/> <br>
+<img src="/img/runestone/number.jpg"/> <br><br>
 <img src="/img/runestone/number1.jpg"/> <br>
