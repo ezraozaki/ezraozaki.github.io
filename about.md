@@ -6,11 +6,11 @@ permalink: /about/
 
 **About Me**<br>
 
-Hello, my name is Thu Huynh. You can call me Ezra. <br>
-I graduated from the University of California, Irvine in Spring 2020 with a B.S. degree in Software Engineering. I will be attending the University of Michigan, Ann Arbor in Fall 2020 to get a master's degree in Information - UX Research and Design track. <br>
-My interests are mainly UX research/design, UI design and product management with the goal of utilizing human-centered design methodologies to enhance the user experience of all forms.<br><br>
+Hello, my name is Thu Huynh. And I go by the name Ezra. <br>
+I graduated from the University of California, Irvine in Spring 2020 with a B.S. degree in Software Engineering. I'm currently a graduate student at the University of Michigan, Ann Arbor studying Information with a focus on UX Research and Design. <br>
+My interests are mainly UX research/design, UI design with the goal of utilizing human-centered design methodologies to enhance the user experience of all forms.<br><br>
 [LinkedIn](https://www.linkedin.com/in/ezraozaki/)<br>
-[Instagram](https://www.instagram.com/1st_genius/?hl=en)
+[View my resume](https://drive.google.com/file/d/1jn13LOxSIi3PjXURBjAed1lbE1zi-UeV/view?usp=sharing)<br>
 <br><br>
 
 **Fun Facts**
