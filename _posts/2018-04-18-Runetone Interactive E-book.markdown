@@ -91,7 +91,29 @@ Prior to each test, the team decided that each member would serve as a moderator
 
 **Finding 1: The Assignment page’s problem score/status is hard to track**
 2 out of 5 participants mentioned that they would prefer if the score is visible on the Assignment page. One participant specifically pointed out that seeing no score available out in the Assignment made her feel unsure and scared that she might miss an assignment. Below is the current state of the assigment page:
-<img src="/img/runestone/assignment.jpg"/> <br><br>
+<img src="/img/runestone/assignment.jpg"/> <br>
 
 **Recommendation:** <br>
-We suggest having an indicator on the “Description” column on the right to let users know whether they have finished the assignment or not. It can be either a progress bar, a green checkmark, or even more convenient, the number of questions they already completed per assignment. <br><br>
+We suggest having an indicator on the “Description” column on the right to let users know whether they have finished the assignment or not. It can be either a progress bar, a green checkmark, or even more convenient, the number of questions they already completed per assignment. <br>
+
+**Finding 2: The Table of Contents lacks visual hierarchy, thus makes it difficult to search for a subchapter or a specific keyword**
+When we asked participants to find a chapter that is relevant to the problem that they just did, 4 out 5 participants used the “Question in Context” link to get to the chapter. However, one participant was not aware of this link and struggled to manually find the topic mathplotlib from the Table of Contents. The Table of Contents is long and it takes a while to skim through it. This incident also strengthens one of our findings in the heuristics evaluation regarding minimalism.<br>
+
+**Recommendation:** <br>
+We recommend adding visual hierarchy and more structures to make the Table of Contents easier to navigate (i.e make the chapter title bigger/bolder, allow chapters to collapse and expand in order to save space, give users more control and minimize unnecessary scrolling). <br>
+
+**Finding 3: The problem set is hard for students to follow along due to no number indicator**
+We noticed that when asking participants to perform the Mixed-Up code question tasks, all of
+the students had to verbally count the problems in order to locate the right problem that we
+asked them to solve because the problems are not numbered (Fig. 2). They also needed to
+check with us to see whether they have the right problem to work on. Based on our judgment,
+this would cause an inconvenience or miscommunication when students are trying to
+communicate the problem that they are working on with each other or the instructor during the
+discussion. After further investigation, this UX problem not only appears in Mixed-up code
+questions but also in many other sections like assignments and some of the chapters.<br>
+
+**Recommendation:** <br>
+We suggest that all the questions in the problem should be numbered in the same way and
+have the same number location to avoid confusion for students. Below are two examples of lacking numbering and inconsistent numbering
+<img src="/img/runestone/number.jpg"/> <br>
+<img src="/img/runestone/number1.jpg"/> <br>
