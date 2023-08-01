@@ -2,7 +2,7 @@
 layout: post
 title:  "When2meet Redesign"
 date:   2018-04-18 15:39:40
-preview: /img/when2meet.jpg
+preview: /img/ihs/icon.png
 
 ---
 
