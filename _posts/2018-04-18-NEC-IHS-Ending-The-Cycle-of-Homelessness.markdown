@@ -2,7 +2,7 @@
 layout: post
 title:  "IHS Mobile App"
 date:   2018-04-18 15:39:40
-preview: /img/icon.png
+preview: /img/ihs/icon.png
 
 ---
 
