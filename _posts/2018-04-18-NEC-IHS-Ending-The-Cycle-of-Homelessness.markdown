@@ -35,20 +35,14 @@ The objective of this initiative is to streamline the management of clients for 
 **User**: IHS Staff<br>
 **Flag(s)**: A variable in the system that signifies the type of assistance a client needs (ex. Employment assistance, transportation, assistance with SNAP...)
 
-<br>
+<br><br>
 >**Success Metrics**:
 >- The number of encounters captured per month
 >- The number of clients serviced per month\
 >- The number of field workers engaging with the app
 >- The time spent generating each encounter cut down
 
-
-**<u>Personas</u>**<br>
-<img src="/img/when2meet/Carson.jpg" alt="When2meet1" title="Carson" height="400"/>
-<br>
-<img src="/img/when2meet/Eddie.jpg" alt="When2meet2" title="Eddie" height="400"/>
 <br><br>
-
 **III: USABILITY TESTING** <br>
 >**Usability Tasks**: We conducted six usability tasks with each session lasting around 20 - 25 minutes on average. We recorded the participants while they were performing our usability tasks. For this, we thought up of five tasks that our participants would carry out. These five participants were recruited by each individual team member, each team member carried out a complete usability test.<br>
 
