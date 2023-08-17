@@ -10,7 +10,7 @@ preview: /img/ihs/icon.png
 <br>
 <p style="text-align: center;"><b>Client</b></p>
 
-([The institute for Human Services](https://ihshawaii.org/)) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
+[The institute for Human Services](https://ihshawaii.org/) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
 
 <br>
 
