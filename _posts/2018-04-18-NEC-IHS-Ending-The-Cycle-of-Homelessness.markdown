@@ -30,9 +30,9 @@ The objective of this initiative is to streamline the management of clients for 
 
 <br>
 **TERMS USED** <br>
-**Encounter**: Each time an IHS field worker meets a homeless person counts as one encounter
-**Client**: Each homeless person is called a client
-**User**: IHS Staff
+**Encounter**: Each time an IHS field worker meets a homeless person counts as one encounter<br>
+**Client**: Each homeless person is called a client<br>
+**User**: IHS Staff<br>
 **Flag(s)**: A variable in the system that signifies the type of assistance a client needs (ex. Employment assistance, transportation, assistance with SNAP...)
 
 <br>
