@@ -13,7 +13,7 @@ preview: /img/ihs/icon.png
 
 <br>
 
-|    My Roles    | Duration |    Tool     |
+|    My Roles    | Duration |    Tools    |
 | :------------: | :------: | :---------: |
 | UI/UX Designer | 3 months |    Figma    |
 |                |          |     Jira    |
@@ -21,7 +21,7 @@ preview: /img/ihs/icon.png
 <br>
 
 **I: PROBLEM STATEMENT** <br>
-The Institute for Human Services (IHS) is presently dedicated to aiding homeless individuals in Hawaii in securing housing, obtaining medical support, healthcare, and more, all with the aim of reducing the homelessness rate. However, the current method of manually managing and storing homeless information remains time-consuming and results in duplicated profile records.
+The Institute for Human Services (IHS) is presently dedicated to aiding homeless individuals in Hawaii in securing housing, obtaining medical support, healthcare, and more, all with the aim of reducing the homelessness rate. However, the current method of manually managing and storing homeless information remains time-consuming, resulting in duplicate profile records.
 <br><br>
 
 **II: BUSINESS GOALS** <br>
@@ -43,11 +43,16 @@ The objective of this initiative is to streamline the management of clients for 
 
 <br><br>
 **III: KEY TECHNOLOGY** <br>
-[NEC Face Recognition]([https://ihshawaii.org/](https://www.nec.com/en/global/solutions/biometrics/face/index.html) is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often not accurate, which leads to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem <br>
+[NEC Face Recognition](https://www.nec.com/en/global/solutions/biometrics/face/index.html) is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often not accurate, which leads to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem. <br>
 
 
 
-**Wireframes:**
+**Main Feature**<br>
+1. Add Encounter
+| Before                                                       | After                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="/img/ihs/Add1.png" alt="Add-Encounter" /> | <img src="/img/when2meet/when2meet homepage.jpg" alt="When2meet" title="New version" height="180" /> |
+
 <img src="/img/when2meet/wireframe1.JPG" alt="Issue" height="503"/> 
 <img src="/img/when2meet/wireframe2.JPG" alt="Issue" height="501"/>
 <img src="/img/when2meet/wireframe3.JPG" alt="Issue" height="302"/>
