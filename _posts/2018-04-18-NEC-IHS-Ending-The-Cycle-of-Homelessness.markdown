@@ -28,21 +28,19 @@ The Institute for Human Services (IHS) is presently dedicated to aiding homeless
 **II: BUSINESS GOALS** <br>
 The objective of this initiative is to streamline the management of clients for both field workers and administrators through automation, thereby saving time and enhancing the assistance provided to homeless individuals. The ultimate aim is to expedite the resolution of homelessness cases.
 
-**Terms used** <br>
-- Encounter: Each time an IHS field worker meets a homeless person counts as one encounter
-- Client: Each homeless person is called a client
-- User: IHS Staff
-- Flag(s): A variable in the system that signifies the type of assistance a client needs (ex. Employment assistance, transportation, assistance with SNAP...)
+**TERMS USED** <br>
+**Encounter**: Each time an IHS field worker meets a homeless person counts as one encounter
+**Client**: Each homeless person is called a client
+**User**: IHS Staff
+**Flag(s)**: A variable in the system that signifies the type of assistance a client needs (ex. Employment assistance, transportation, assistance with SNAP...)
 
 <br><br>
-
 >**Success Metrics**:
 >- The number of encounters captured per month
 >- The number of clients serviced per month\
 >- The number of field workers engaging with the app
 >- The time spent generating each encounter cut down
 
->**Survey**: As a team we decided upon creating a survey which included 20 basic questions that revolved around gathering information about our target population and the context in which they use When2Meet or even other scheduling services. After deciding on what questions we should ask, we each sent out at least 5 invitations for people to take our survey. The recipients of these invitations were those we had the emails in order to ensure that it at least reached 25 people.
 
 **<u>Personas</u>**<br>
 <img src="/img/when2meet/Carson.jpg" alt="When2meet1" title="Carson" height="400"/>
