@@ -50,7 +50,7 @@ The objective of this initiative is to streamline the management of clients for 
 **Main Feature**<br>
 1. Add Encounter<br>
 
-<div display = "flex" align-items="flex-start">
+<div display = "flex"  flex-direction="row" align-items="flex-start">
   <div align-self="start">
   <img src="/img/ihs/Add1.png" alt="Add-Encounter" height="500"/>
   </div>
