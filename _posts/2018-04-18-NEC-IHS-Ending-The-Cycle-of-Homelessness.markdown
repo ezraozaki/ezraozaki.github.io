@@ -50,7 +50,7 @@ The objective of this initiative is to streamline the management of clients for 
 **Main Feature**<br>
 1. Add Encounter<br>
 
-<div horizontal-align= "top">
+<div display = "flex">
 <div display="block">
   <img src="/img/ihs/Add1.png" alt="Add-Encounter" height="500"/>
 </div> 
@@ -58,8 +58,8 @@ The objective of this initiative is to streamline the management of clients for 
   <img src="/img/ihs/Add.png" alt="Add-details" height="800" />
 </div> 
 <div display="block">
-  <img src="/img/ihs/Add3.png" alt="Flag-Encounter" height="500" /> |
+  <img src="/img/ihs/Add3.png" alt="Flag-Encounter" height="500" /> 
 </div> 
 </div>
-<img src="/img/when2meet/wireframe1.JPG" alt="Issue" height="503"/> 
+
 
