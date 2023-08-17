@@ -54,14 +54,4 @@ The objective of this initiative is to streamline the management of clients for 
 | <img src="/img/ihs/Add1.png" alt="Add-Encounter" /> | <img src="/img/when2meet/when2meet homepage.jpg" alt="When2meet" title="New version" height="180" /> |
 
 <img src="/img/when2meet/wireframe1.JPG" alt="Issue" height="503"/> 
-<img src="/img/when2meet/wireframe2.JPG" alt="Issue" height="501"/>
-<img src="/img/when2meet/wireframe3.JPG" alt="Issue" height="302"/>
-<br><br>
 
-**Final design:**<br>
-<img src="/img/when2meet/when2meet homepage.jpg" alt="Issue" height="400"/> 
-<img src="/img/when2meet/when2meet 2.jpg" alt="Issue" height="400"/> 
-<img src="/img/when2meet/when2meet 3.jpg" alt="Issue" height="400"/> 
-<img src="/img/when2meet/when2meet 4.jpg" alt="Issue" height="400"/> 
-<img src="/img/when2meet/when2meet 5.jpg" alt="Issue" height="400"/> 
-<img src="/img/when2meet/when2meet 6.jpg" alt="Issue" height="400"/> 
