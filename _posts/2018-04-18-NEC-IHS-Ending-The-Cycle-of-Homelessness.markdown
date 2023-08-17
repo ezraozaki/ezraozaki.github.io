@@ -8,8 +8,7 @@ preview: /img/ihs/icon.png
 
 
 <br>
-<p style="text-align: center;"><b>Client</b></p>
-
+**CLIENT** <br>
 [The institute for Human Services](https://ihshawaii.org/) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
 
 <br>
@@ -48,36 +47,7 @@ The objective of this initiative is to streamline the management of clients for 
 
 >**Cognitive Walkthrough**: By doing this, we figured out different usability issues which may make it difficult for the user to use When2Meet.<br>
 
-**Findings**:<br><br>
-**Issue 1**: Changing the calendar/month from the default dates given by the system
-Ex: Changing the below dates to display weeks in October of 2019 would be difficult to find out how due to the lack of scroll bar<br>
-<img src="/img/when2meet/Issue1.JPG" alt="Issue" height="191"/><br>
-4/5 users that we tested all had trouble figuring out how to scroll to their desired date. 3 of our users tried using the scroll wheel   while hovering over the calendar at first, while the other person tried to click and drag down. <br><br>
-**Issue 2**: The instructions to select availability is not immediately noticeable
-The instructions here are circled in blue. The font is small and too late for it to be displaying important information about how to     interact with the system.<br>
-<img src="/img/when2meet/Issue2.JPG" alt="Issue" height="457"/> <br>
-**Issue 3**: The "Event" name box is not clearly something that is required to be edited. 4 of our 5 users found it unclear that it was something to be touched.<br>
-<img src="/img/when2meet/Issue3.JPG" alt="Issue" height="82"/> <br>
-**Issue 4**: Clearing/filling the availability boxes by clicking and dragging is difficult due to the large room for error that is given by such small boxes representing segments of time. Clicking in the wrong box means that it incorrectly displays the user’s desired availability.<br><br>
-<img src="/img/when2meet/Issue4.JPG" alt="Issue" height="400"/> <br><br>
-**Issue 5**: The interface is overwhelming for new users.<br>
-Specifically, in creating a new event, users are given all the requirements to do so in one screen rather than being given a step by step process. All the information and necessary boxes needed to fill in can be too much for a new user to try and figure out what they need to do with all of the options.<br>
-<img src="/img/when2meet/Issue5.JPG" alt="Issue" height="296"/> <br><br>
-**Issue 6**: The interface is overwhelming for new users.<br>
-Signing in with an incorrect username will simply create a new user. This is a mistake which is very easy to make, and When2Meet doesn’t provide any mechanism that can prevent this. <br><br>
-**Issue 7**: There is no way to go back to the sign in page if you have already signed into an account. There is no way to redo/undo this action through the interface. You must revisit the event link in order to do so.<br><br>
-**Issue 8**: Cannot change the title, dates, or time range of an already created event.<br>
-Only the availability and time zone can be changed. No other options of customization are given, even if they are the creator of the event.<br>
-<img src="/img/when2meet/Issue8.JPG" alt="Issue" height="350"/> <br><br>
-**PHASE IV: REDESIGN** <br>
-After reviewing the data we got, these are the targets that we decided to redesign:	<br><br>
-**Homepage**: Many participants in our usability test found that the homepage is overwhelming and confusing (especially for new users). Too much information on the same page makes it difficult for them to figure out where to start and what they need to do. <br>
 
-**Event Creation Process**: This one is related to the homepage. All the steps combined in the homepage make the users confused as we indicated above. Also, when choosing the dates, the lack of scroll bar makes it difficult to change the month/year (4/5 users in our usability test had trouble with this task). <br>
-
-**Availability Indication**: Through cognitive walkthrough and usability testing, we realize that the instructions regarding how to select availability are not noticeable enough. The font is small and blends in the background which makes it really hard to see. The option of entering both username and password is confusing too. <br>
-
-**Sharing Process**: During usability testing, we found that the email option is not visible enough, and it took users awhile find it. The share-through-Facebook option doesn’t work at all. For the sharing link, we will have to manually use the mouse and drag to copy it, which is not efficient.<br><br>
 
 **Wireframes:**
 <img src="/img/when2meet/wireframe1.JPG" alt="Issue" height="503"/> 
