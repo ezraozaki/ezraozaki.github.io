@@ -28,13 +28,14 @@ The Institute for Human Services (IHS) is presently dedicated to aiding homeless
 **II: BUSINESS GOALS** <br>
 The objective of this initiative is to streamline the management of clients for both field workers and administrators through automation, thereby saving time and enhancing the assistance provided to homeless individuals. The ultimate aim is to expedite the resolution of homelessness cases.
 
+<br>
 **TERMS USED** <br>
 **Encounter**: Each time an IHS field worker meets a homeless person counts as one encounter
 **Client**: Each homeless person is called a client
 **User**: IHS Staff
 **Flag(s)**: A variable in the system that signifies the type of assistance a client needs (ex. Employment assistance, transportation, assistance with SNAP...)
 
-<br><br>
+<br>
 >**Success Metrics**:
 >- The number of encounters captured per month
 >- The number of clients serviced per month\
