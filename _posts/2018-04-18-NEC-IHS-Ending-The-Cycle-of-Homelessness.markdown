@@ -54,8 +54,12 @@ The objective of this initiative is to streamline the management of clients for 
   <div align-self="start">
   <img src="/img/ihs/Add1.png" alt="Add-Encounter" height="500"/>
   </div>
+  <div align-self="start">
   <img src="/img/ihs/Add.png" alt="Add-details" height="800" />
+  </div>
+  <div align-self="start">
   <img src="/img/ihs/Add3.png" alt="Flag-Encounter" height="520" /> 
+  </div>
 </div>
 
 
