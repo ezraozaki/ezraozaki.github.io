@@ -49,9 +49,9 @@ The objective of this initiative is to streamline the management of clients for 
 
 **Main Feature**<br>
 1. Add Encounter
-| Before                                                       | After                                                        |
+| Add Encounter with the option to search AND/OR take a picture and use NEC face recognition technology| After                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="/img/ihs/Add1.png" alt="Add-Encounter" /> | <img src="/img/when2meet/when2meet homepage.jpg" alt="When2meet" title="New version" height="180" /> |
+| <img src="/img/ihs/Add1.png" alt="Add-Encounter" height="503"/> | <img src="/img/when2meet/when2meet homepage.jpg" alt="When2meet" title="New version" height="180" /> |
 
 <img src="/img/when2meet/wireframe1.JPG" alt="Issue" height="503"/> 
 
