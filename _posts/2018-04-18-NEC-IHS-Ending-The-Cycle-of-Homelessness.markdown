@@ -9,7 +9,7 @@ preview: /img/ihs/icon.png
 
 <br>
 **CLIENT** <br>
-[The institute for Human Services](https://ihshawaii.org/) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
+[The Institute for Human Services](https://ihshawaii.org/) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
 
 <br>
 
@@ -37,15 +37,13 @@ The objective of this initiative is to streamline the management of clients for 
 
 >**Success Metrics**:
 >- The number of encounters captured per month
->- The number of clients serviced per month\
+>- The number of clients serviced per month
 >- The number of field workers engaging with the app
 >- The time spent generating each encounter cut down
 
 <br><br>
-**III: USABILITY TESTING** <br>
->**Usability Tasks**: We conducted six usability tasks with each session lasting around 20 - 25 minutes on average. We recorded the participants while they were performing our usability tasks. For this, we thought up of five tasks that our participants would carry out. These five participants were recruited by each individual team member, each team member carried out a complete usability test.<br>
-
->**Cognitive Walkthrough**: By doing this, we figured out different usability issues which may make it difficult for the user to use When2Meet.<br>
+**III: KEY TECHNOLOGY** <br>
+[NEC Face Recognition]([https://ihshawaii.org/](https://www.nec.com/en/global/solutions/biometrics/face/index.html) is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often not accurate, which leads to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem <br>
 
 
 
