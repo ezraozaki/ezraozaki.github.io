@@ -34,7 +34,7 @@ The objective of this initiative is to streamline the management of clients for 
 **User**: IHS Staff<br>
 **Flag(s)**: A variable in the system that signifies the type of assistance a client needs (ex. Employment assistance, transportation, assistance with SNAP...)
 
-<br><br>
+
 >**Success Metrics**:
 >- The number of encounters captured per month
 >- The number of clients serviced per month\
