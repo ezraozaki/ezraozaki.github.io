@@ -10,6 +10,7 @@ preview: /img/ihs/icon.png
 <br>
 **CLIENT** <br>
 [The Institute for Human Services](https://ihshawaii.org/) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
+Final product can be found in [App Store](https://apps.apple.com/gr/app/nec-cupcake/id6446066006)
 
 <br>
 
@@ -48,18 +49,22 @@ The objective of this initiative is to streamline the management of clients for 
 
 
 **Main Feature**<br>
-1. Add Encounter<br>
+1. Add Encounter <br>
 
-<div display = "flex"  flex-direction="row" >
-  <div align-self="start">
-  <img src="/img/ihs/Add1.png" alt="Add-Encounter" height="500"/>
-  </div>
-  <div align-self="start">
-  <img src="/img/ihs/Add.png" alt="Add-details" height="800" />
-  </div>
-  <div align-self="start">
-  <img src="/img/ihs/Add3.png" alt="Flag-Encounter" height="520" /> 
-  </div>
-</div>
+|                       Add New Encounter                       |                       Fill out client information                       |                       Flag Encounter for extra assistance                       |
+|:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|
+| <img src="/img/ihs/Add1.png" height="450"/> |      <img src="/img/ihs/Add.png" height="700"/>     | <img src="/img/ihs/Add3.png" height="460"/> |
 
+<br>
+2. Search <br>
 
+|                       Search Client by name/photo                      |                       Search result                       |                       Search Location                       |
+|:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|
+| <img src="/img/ihs/Results.png" height="500"/> |      <img src="/img/ihs/Results2.png" height="500"/>     | <img src="/img/ihs/Search.png" height="500"/> |
+
+<br>
+3. Client History <br>
+
+|                       Client History                      | 
+|:-----------------------------------------------------------:|
+| <img src="/img/ihs/History.png" height="700"/> |     
