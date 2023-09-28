@@ -45,7 +45,7 @@ The objective of this initiative is to streamline the management of clients for 
 
 <br><br>
 **III: KEY TECHNOLOGY** <br>
-[NEC Face Recognition](https://www.nec.com/en/global/solutions/biometrics/face/index.html) is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often not accurate, which leads to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem. <br>
+[NEC Face Recognition](https://www.nec.com/en/global/solutions/biometrics/face/index.html){:target="_blank"} is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often not accurate, which leads to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem. <br>
 
 
 
