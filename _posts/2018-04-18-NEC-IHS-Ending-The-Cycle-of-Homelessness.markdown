@@ -9,9 +9,9 @@ preview: /img/ihs/icon.png
 
 <br>
 **CLIENT** <br>
-[The Institute for Human Services](https://ihshawaii.org/) is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
+[The Institute for Human Services](https://ihshawaii.org/){:target="_blank"} is a non-profit organization that aims to "create and offer tailored solutions for those in crisis, and nurture homeless people toward greater self-direction and responsibility." <br>
 <br>
-Final product can be found in [App Store](https://apps.apple.com/gr/app/nec-cupcake/id6446066006)
+Final product can be found in [App Store](https://apps.apple.com/gr/app/nec-cupcake/id6446066006){:target="_blank"}
 
 <br>
 
