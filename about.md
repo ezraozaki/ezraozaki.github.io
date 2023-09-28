@@ -5,13 +5,15 @@ permalink: /about/
 ---
 
 **About Me**<br>
-The purest form of freedom is choice
+A designer / seasoned coder
 
-<br><br>
+<br>
+**Favorite TV series (ever)**<br>
+My Liberation Notes. 
 
 **Hobbies**
 - Photography
-- Drawing
+- Travel Planning
 - Cooking
 - Playing League (Hey I feed everyone!)<br><br>
 
