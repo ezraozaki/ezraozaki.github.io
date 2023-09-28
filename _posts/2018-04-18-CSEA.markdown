@@ -9,3 +9,13 @@ preview: /img/csea/icon.png
 **CLIENT** <br>
 [Hawaii Child Support Enforcement Agency](https://ag.hawaii.gov/csea/){:target="_blank"} is a division within the Department of the Attorney General. The Agency works in partnership with the Federal Office of Child Support Enforcement and other State and local agencies. The primary goal of this Agency is to ensure that children have the ongoing financial support of both parents, by providing a system for payments and disbursements of court-ordered child support.  <br>
 <br>
+Final product can be found [here](https://ag.hawaii.gov/csea/){:target="_blank"} (Direct link is not bookmarkable. Please click on My Account button)
+
+<br>
+| My Roles            | Duration | Tools/Tech         | 
+|---------------------|----------|--------------------|
+| UI/UX Designer      | 1 year   | Figma              |
+| Front-end Developer | 6 months | AWS, Git, React.js |
+
+
+<br>
