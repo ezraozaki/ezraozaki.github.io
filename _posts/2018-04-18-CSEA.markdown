@@ -13,7 +13,7 @@ The final product can be found [here](https://ag.hawaii.gov/csea/){:target="_bla
 
 <br>
 **TEAM** <br>
-><br>**Ezra Huynh, Anthony Nguyen, Clyde Felix, Rodney Murashige, Tuan Truong**<br><br>
+><br>**Anthony Vu, Clyde Felix, Ezra Huynh, Rodney Murashige, Tuan Truong**<br><br>
 
 | My Roles            | Duration | Tools/Tech    |
 | ------------------- | -------- | ------------- |
