@@ -50,21 +50,21 @@ The objective of this initiative is to streamline the management of clients for 
 
 
 **Main Feature**<br>
-ADD ENCOUNTER <br>
+**ADD ENCOUNTER** <br>
 
 |                       Add New Encounter                       |                       Fill out client information                       |                       Flag Encounter for extra assistance                       |
 |:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="/img/ihs/Add1.png" height="450"/> |      <img src="/img/ihs/Add.png" height="700"/>     | <img src="/img/ihs/Add3.png" height="460"/> |
 
 <br>
-SEARCH <br>
+**SEARCH** <br>
 
 |                       Search Client by name/photo                      |                       Search result                       |                       Search Location                       |
 |:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="/img/ihs/Results.png" height="500"/> |      <img src="/img/ihs/Results2.png" height="500"/>     | <img src="/img/ihs/Search.png" height="500"/> |
 
 <br>
-CLIENT HISTORY <br>
+**CLIENT HISTORY** <br>
 
 |                       Client History                      | 
 |:-----------------------------------------------------------:|
