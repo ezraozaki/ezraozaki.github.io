@@ -45,11 +45,19 @@ The objective of this initiative is to streamline the management of clients for 
 
 <br><br>
 **III: KEY TECHNOLOGY** <br>
-[NEC Face Recognition](https://www.nec.com/en/global/solutions/biometrics/face/index.html){:target="_blank"} is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often not accurate, which leads to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem. <br>
+[NEC Face Recognition](https://www.nec.com/en/global/solutions/biometrics/face/index.html){:target="_blank"} is used in each encounter between IHS field workers and clients. As mentioned above, manually managing clients' info is time-consuming and often inaccurate, leading to duplicated client profiles in the database. NEC serves as the core technology that helps to alleviate this problem. <br>
 
 
 
-**Main Feature**<br>
+**Main Features**<br>
+Features of the homeless care coordination solution include:
+- Client profiles - Homeless outreach clients can be enrolled and managed in the application using digital ID technology
+- Encounter management - A log of encounters with homeless clients can be recorded and accessed at the point of care in the mobile application.
+- Media gallery - Photos, videos, and dictated notes can be captured on the mobile device to document each encounter.
+- Location mapping and tracking - Geolocations of encounters can be captured to track and locate homeless clients.
+- Alerts and Notifications - Follow-up flags can be set, and notifications can be sent to appropriate parties.
+
+**Some screenshots**<br>
 **ADD ENCOUNTER** <br>
 
 |                       Add New Encounter                       |                       Fill out client information                       |                       Flag Encounter for extra assistance                       |
