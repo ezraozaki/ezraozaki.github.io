@@ -7,42 +7,67 @@ preview: /img/metro/logo.jpg
 ---
 <br>
 **CLIENT** <br>
-[Hawaii Child Support Enforcement Agency](https://ag.hawaii.gov/csea/){:target="_blank"} is a division within the Department of the Attorney General. The Agency works with the Federal Office of Child Support Enforcement and other State and local agencies. The primary goal of this Agency is to ensure that children have the ongoing financial support of both parents by providing a system for payments and disbursements of court-ordered child support.  <br>
+[The Los Angeles County Metropolitan Transportation Authority - LACMTA](https://www.metro.net/){:target="_blank"} branded as Metro, is the county agency that plans, operates, and coordinates funding for most of the public transportation system in Los Angeles County, California.  <br>
 <br>
-The final product can be found [here](https://ag.hawaii.gov/csea/){:target="_blank"} (Direct link is not bookmarkable. Please click on My Account button)
+The final product is an internal system hence no access to the public.
 
-<br>
-**TEAM** <br>
-><br>**Anthony Vu, Clyde Felix, Ezra Huynh, Rodney Murashige, Tuan Truong**<br><br>
+<br><br>
 
 | My Roles            | Duration | Tools/Tech    |
 | ------------------- | -------- | ------------- |
-| UI/UX Designer      | 1 year   | Figma         |
-| Front-end Developer | 6 months | React.js, Git |
+| UI/UX Designer      | 4 months | Figma         |
 
 
 <br>
 
 **BUSINESS GOALS** <br>
-CSEA is seeking to revamp its existing portal by transitioning to a new website that embodies a contemporary aesthetic and user experience, all while harnessing the power of AWS. The new implementation encompasses both the agency and customer sides.
+LACMTA is seeking to revamp its existing service request tracking system by transitioning to a new website that embodies a contemporary aesthetic and user experience, all while harnessing the power of AWS, moving away from their on-premises system. We aim to incorporate user-friendly and interactive features and ensure that the application is scalable.
 <br>
 The entire software development process adheres to Agile methodologies, incorporating Scrum and sprint practices and periodic refinement sessions with the client.
 <br>
-Some key features of the portal:
-1. Customer side
-   * Custodial/Non-custodial parents can view their balances & payment list within their case(s)
-   * Custodial/Non-custodial parents can request forms to be send to their mailing address
-   * Custodial/Non-custodial parents can download their documents in PDF version
-   * Custodial/Non-custodial parent can check their hearing schedule
-2. Agency side
-   * CSEA staffs can search for Custodial/Non-custodial parent
-   * CSEA staffs can unlock Custodial/Non-custodial parent accounts
-   * CSEA staffs have the capability to perform all functions available to customers.
-  
+
+**PAIN POINT** <br>
+LACMTA is currently using and maintaining two separate systems; one is Ivanti - used to create service requests, and their STRS system - used to approve, track and update service request initiated from Ivanti. This is both inconvenient and costly in terms of time and labor. 
 <br>
 
-| Before                                                       | After                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="/img/csea/HIChome.png" alt="Old CSEA" title="Old version" height="150" width="300"/> | <img src="/img/csea/New.png" alt="New CSEA" title="New version" height="180" /> |
+**SOLUTION** <br>
+By combining the two systems, we improve the efficiency of the whole workflow as well as the security, reliability, cost optimization, and sustainability. The entire software development process adheres to Agile methodologies, incorporating Scrum and sprint practices and periodic refinement sessions with the client.
+<br>
 
+Some key features of the system:
+1. UAM
+   * Roles & Permissions: Super user/ Admin, Executive Officer (OE), Supervisor, Delivery Manager (DM), Delivery Lead (DL), Technician
+   * User Profile
+
+2. Service Request (SR) Management
+   * Create, Read, Update SRs
+   * View SR Details
+   * SR Activity Log
+   * SR Approval Flow
+
+3. Reports/dashboard
+   * SRs by status/ user/ timeframe. Hightlight overdue SR
+   * KPI/ Performance tracking 
+
+<br>
+
+| Login - intergrate with Azure ID                                                                                             |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/qa-srts-nettricity-cloud-identity-login.png" alt="login" title="log-in-screen" height="380" />                       |
+
+| Dashboard - track KPI by cost center and monitor overdue Service Requests                                       |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/dashboard.png" title="dashboard" height="380" />                       |
+
+| Create Service Request                                        |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/sr.png" title="create-service-request" height="400" />                       |
+
+| Service Request Details - approve/reject, assign to worker, update SR info                                     |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/sr-detail.png" title="service-request-detail" height="400" />                       |
+
+| Roles & Permissions - offer role-based access control                                     |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/role.png" title="create-service-request" height="400" />                       |
 <br>
