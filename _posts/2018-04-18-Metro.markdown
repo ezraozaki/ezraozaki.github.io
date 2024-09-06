@@ -10,7 +10,6 @@ preview: /img/metro/logo.jpg
 [The Los Angeles County Metropolitan Transportation Authority - LACMTA](https://www.metro.net/){:target="_blank"} branded as Metro, is the county agency that plans, operates, and coordinates funding for most of the public transportation system in Los Angeles County, California.  <br>
 <br>
 The final product is an internal system hence no access to the public.
-
 <br><br>
 
 | My Roles            | Duration | Tools/Tech    |
@@ -22,8 +21,6 @@ The final product is an internal system hence no access to the public.
 
 **BUSINESS GOALS** <br>
 LACMTA is seeking to revamp its existing service request tracking system by transitioning to a new website that embodies a contemporary aesthetic and user experience, all while harnessing the power of AWS, moving away from their on-premises system. We aim to incorporate user-friendly and interactive features and ensure that the application is scalable.
-<br>
-The entire software development process adheres to Agile methodologies, incorporating Scrum and sprint practices and periodic refinement sessions with the client.
 <br>
 
 **PAIN POINT** <br>
