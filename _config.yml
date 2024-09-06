@@ -1,11 +1,10 @@
 # Site settings
-title: Ezra Huynh
-email: thuah@umich.edu
+title: Hello World! 
+email: thuhuynh602@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A designer
+  A UX/UI designer driven by usability and aesthetics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ezraozaki.github.io" # the base hostname & protocol for your site
-twitter_username: whoknowimhere
 github_username:  ezraozaki
 exclude: [vendor]
 # Build settings

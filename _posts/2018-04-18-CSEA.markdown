@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Child Support Enforcement Agency Portal"
+date:   2018-04-18 15:39:40
+preview: /img/csea/icon.png
+
+---
+<br>
+**CLIENT** <br>
+[Hawaii Child Support Enforcement Agency](https://ag.hawaii.gov/csea/){:target="_blank"} is a division within the Department of the Attorney General. The Agency works with the Federal Office of Child Support Enforcement and other State and local agencies. The primary goal of this Agency is to ensure that children have the ongoing financial support of both parents by providing a system for payments and disbursements of court-ordered child support.  <br>
+<br>
+The final product can be found [here](https://ag.hawaii.gov/csea/){:target="_blank"} (Direct link is not bookmarkable. Please click on My Account button)
+
+<br>
+**TEAM** <br>
+><br>**Anthony Vu, Clyde Felix, Ezra Huynh, Rodney Murashige, Tuan Truong**<br><br>
+
+| My Roles            | Duration | Tools/Tech    |
+| ------------------- | -------- | ------------- |
+| UI/UX Designer      | 1 year   | Figma         |
+| Front-end Developer | 6 months | React.js, Git |
+
+
+<br>
+
+**BUSINESS GOALS** <br>
+CSEA is seeking to revamp its existing portal by transitioning to a new website that embodies a contemporary aesthetic and user experience, all while harnessing the power of AWS. The new implementation encompasses both the agency and customer sides.
+<br>
+The entire software development process adheres to Agile methodologies, incorporating Scrum and sprint practices and periodic refinement sessions with the client.
+<br>
+Some key features of the portal:
+1. Customer side
+   * Custodial/Non-custodial parents can view their balances & payment list within their case(s)
+   * Custodial/Non-custodial parents can request forms to be send to their mailing address
+   * Custodial/Non-custodial parents can download their documents in PDF version
+   * Custodial/Non-custodial parent can check their hearing schedule
+2. Agency side
+   * CSEA staffs can search for Custodial/Non-custodial parent
+   * CSEA staffs can unlock Custodial/Non-custodial parent accounts
+   * CSEA staffs have the capability to perform all functions available to customers.
+  
+<br>
+
+| Before                                                       | After                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="/img/csea/HIChome.png" alt="Old CSEA" title="Old version" height="150" width="300"/> | <img src="/img/csea/New.png" alt="New CSEA" title="New version" height="180" /> |
+
+<br>
