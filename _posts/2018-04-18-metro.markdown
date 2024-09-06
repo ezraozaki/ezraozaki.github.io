@@ -3,7 +3,7 @@
 layout: post
 title:  "LACMTA Service Request Tracking System"
 date:   2018-04-18 15:39:40
-preview: /img/New folder/1200x634.jpg
+preview: img/New folder/1200x634.jpg
 
 ---
 <br>
