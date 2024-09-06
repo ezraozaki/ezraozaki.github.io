@@ -50,21 +50,21 @@ Some key features of the system:
 
 | Login - intergrate with Azure ID                                                                                             |
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/qa-srts-nettricity-cloud-identity-login.png" alt="login" title="log-in-screen" height="380" />                       |
+| <img src="/img/metro/qa-srts-nettricity-cloud-identity-login.png" alt="login" title="log-in-screen"  />                       |
 
 | Dashboard - track KPI by cost center and monitor overdue Service Requests                                       |
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/dashboard.png" title="dashboard" height="380" />                       |
+| <img src="/img/metro/dashboard.png" title="dashboard"  />                       |
 
 | Create Service Request                                        |
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/sr.png" title="create-service-request" height="400" />                       |
+| <img src="/img/metro/sr.png" title="create-service-request"  />                       |
 
 | Service Request Details - approve/reject, assign to worker, update SR info                                     |
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/sr-detail.png" title="service-request-detail" height="400" />                       |
+| <img src="/img/metro/sr-detail.png" title="service-request-detail" />                       |
 
 | Roles & Permissions - offer role-based access control                                     |
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/role.png" title="create-service-request" height="400" />                       |
+| <img src="/img/metro/role.png" title="create-service-request" />                       |
 <br>
