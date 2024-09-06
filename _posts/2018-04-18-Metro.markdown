@@ -66,5 +66,7 @@ Some key features of the system:
 
 | Roles & Permissions - offer role-based access control                                     |
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/role.png" title="create-service-request" />                       |
+| <img src="/img/metro/role.png" title="role" />                       |
+
+<br>
 <br>
