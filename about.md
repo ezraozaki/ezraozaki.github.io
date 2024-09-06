@@ -8,10 +8,6 @@ permalink: /about/
 A designer / seasoned coder
 
 <br>
-**Favorite TV series (ever)**<br>
-My Liberation Notes. <br>
-
-<br>
 
 **Hobbies**
 - Photography
