@@ -14,7 +14,7 @@ The final product is an internal system hence no access to the public.
 
 | My Roles            | Duration | Tools/Tech    |
 | ------------------- | -------- | ------------- |
-| UI/UX Designer      | 4 months | Figma         |
+| Lead UI/UX Designer      | 4 months | Figma         |
 
 
 <br>
