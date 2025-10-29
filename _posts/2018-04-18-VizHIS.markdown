@@ -2,7 +2,7 @@
 layout: post
 title:  "VizHIS - Streamlining Healthcare Workflows"
 date:   2018-04-18 15:39:40
-preview: /img/vizhis/Screenshot 2025-10-28 141544.png
+preview: /img/vizhis/thumbnail.jpg
 
 ---
 
