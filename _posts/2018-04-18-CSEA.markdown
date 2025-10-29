@@ -12,8 +12,6 @@ preview: /img/csea/icon.png
 The final product can be found [here](https://ag.hawaii.gov/csea/){:target="_blank"} (Direct link is not bookmarkable. Please click on My Account button)
 
 <br>
-**TEAM** <br>
-><br>**Anthony Vu, Clyde Felix, Ezra Huynh, Rodney Murashige, Tuan Truong**<br><br>
 
 | My Roles            | Duration | Tools/Tech    |
 | ------------------- | -------- | ------------- |
