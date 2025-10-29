@@ -16,8 +16,6 @@ The project is to review the open-source e-book platform Runestone Interactive a
 **GOALS**<br>
 - Provide suggestions for the Runestone ebook interface improvement<br> <br>
 
-**TEAM** <br>
-><br>**Kedrick Akons, Lizbeth Guerrero, Ezra Huynh, Jacob Yu**<br><br>
 
 |    My Roles    | Duration |    Tool     |
 | :------------: | :------: | :---------: |
