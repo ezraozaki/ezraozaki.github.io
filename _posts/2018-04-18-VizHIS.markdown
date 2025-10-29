@@ -46,6 +46,7 @@ VizHIS is a Health Information System that helps hospitals and clinics manage pa
 Throughout the redesign, I focused on improving clarity and reducing the effort required to navigate dense clinical data. Each module was refined or built from scratch to support real workflows - helping clinicians act quickly, access the right information, and maintain focus during patient care.
 
 Below are a few examples that illustrate how these goals translated into the product experience
+<br>
 
 | Patient Summary|
 | ------------------------------------------------------------------------------------------------------|
