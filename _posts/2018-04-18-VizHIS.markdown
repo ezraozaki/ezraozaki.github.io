@@ -1,1 +1,87 @@
-test
+---
+layout: post
+title:  "VizHIS - Streamlining Healthcare Workflows"
+date:   2018-04-18 15:39:40
+preview: /img/vizhis/Screenshot 2025-10-28 141544.png
+
+---
+
+**Role:** UI/UX Designer<br>**Duration:** 1.5 years<br>**Tools:** Figma, Jira<br>**Team:** Product manager, developers, QA, and clinical stakeholders
+
+&nbsp;
+
+# Overview
+
+VizHIS is a Health Information System that helps hospitals and clinics manage patient data, telehealth, and administrative workflows from one centralized platform. Our goal was simple: make it easier for healthcare professionals to focus on patients, not paperwork.
+
+&nbsp;
+
+| My Roles            | Duration | Tools/Tech    |
+| ------------------- | -------- | ------------- |
+| UI/UX Designer      | 1.5 years | Figma         |
+
+&nbsp;
+
+# Challenges
+
+* Understanding a complex healthcare domain with high data density and regulatory constraints.
+* Designing for workflows that required detailed medical input while keeping screens intuitive and uncluttered.
+* Ensuring ADA and WCAG compliance across all modules, from data tables to telehealth interfaces.
+* Maintaining design consistency across multiple feature teams.
+
+  &nbsp;
+
+# Design Approach
+
+1. **Early Collaboration**&nbsp;- Joined weekly design sessions with the **BA, other UX designers, and Product Owner** early in the project to clarify requirements, align on user flows, and resolve feature ambiguities before design began.
+2. **Domain Immersion**&nbsp;- Partnered with clinical SMEs to understand terminology, data dependencies, and real-world use cases.
+3. **Information Hierarchy**&nbsp;- Reorganized complex layouts to surface essential information first while reducing cognitive load.
+4. **Accessibility Focus** – Applied WCAG 2.1 standards for color contrast, keyboard navigation, and ARIA labeling.
+5. **Design System Integration** – Created reusable, responsive components to maintain visual consistency and streamline development handoff.
+
+   &nbsp;
+<br>
+
+# Feature Highlights
+
+| Medical Data — Problem List Screen
+Organized patient medical problems into a clean, structured layout that surfaces key details first. Clinicians can quickly review active issues, add new entries, or update resolved conditions without scrolling through long, ungrouped lists.
+
+Focus: clarity, readability, and reduced cognitive load during patient review.|
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/qa-srts-nettricity-cloud-identity-login.png" alt="login" title="log-in-screen"  />                       |
+<br>
+| Dashboard - track KPI by cost center and monitor overdue Service Requests                                       |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/dashboard.png" title="dashboard"  />                       |
+
+| Create Service Request                                        |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/sr.png" title="create-service-request"  />                       |
+
+| Service Request Details - approve/reject, assign to worker, update SR info                                     |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/sr-detail.png" title="service-request-detail" />                       |
+
+| Roles & Permissions - offer role-based access control                                     |
+| ------------------------------------------------------------------------------------------------------|
+| <img src="/img/metro/role.png" title="role" />                       |
+
+<br>
+
+# Key Outcome
+
+* Improved readability and task flow for clinicians managing patient charts and telehealth sessions.
+* Established accessibility patterns adopted across other VizHIS modules.
+* Created a unified component library that reduced UI inconsistencies and design debt.
+
+&nbsp;
+
+# Reflection
+
+VizHIS challenged me to design for precision, accessibility, and empathy all at once. Early collaboration with the BA and PO teams helped ground every feature in both user and business needs. It was a reminder that clarity in communication is just as important as clarity in interface design.
+<br>
+
+
+<br>
+
