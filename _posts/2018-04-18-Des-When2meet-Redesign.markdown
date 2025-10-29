@@ -21,9 +21,6 @@ What makes it a good candidate for a redesign is that as it is, the product sole
 
 <br>
 
-**TEAM** <br>
-><br>**Thu Huynh, Phuoc Trinh, Gordon Chan, Matthew Herrera, Haiming Wu**<br><br>
-
 |    My Roles    | Duration |                 Method                 |    Tool     |
 | :------------: | :------: | :------------------------------------: | :---------: |
 | UI/UX Designer | 3 months |          Competitive Analysis          |    Figma    |
