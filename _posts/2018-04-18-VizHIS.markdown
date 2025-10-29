@@ -55,21 +55,12 @@ VizHIS is a Health Information System that helps hospitals and clinics manage pa
 | Organized patient medical problems into a clean, structured layout that surfaces key details first. Clinicians can quickly review active issues, add new entries, or update resolved conditions without scrolling through long, ungrouped lists.|
 | <img src="/img/vizhis/Medical-data.jpg" alt="Medical-data-screen" title="medical-data-screen"  />                       |
 <br>
-| Dashboard - track KPI by cost center and monitor overdue Service Requests                                       |
-| ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/dashboard.png" title="dashboard"  />                       |
 
-| Create Service Request                                        |
+| Patient Portal|
 | ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/sr.png" title="create-service-request"  />                       |
-
-| Service Request Details - approve/reject, assign to worker, update SR info                                     |
-| ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/sr-detail.png" title="service-request-detail" />                       |
-
-| Roles & Permissions - offer role-based access control                                     |
-| ------------------------------------------------------------------------------------------------------|
-| <img src="/img/metro/role.png" title="role" />                       |
+| Created an easy-to-navigate portal where patients can view their upcoming appointments, access visit summaries, and manage bookings. The redesigned appointment screen presents future visits clearly and guides users through the scheduling process with fewer steps.|
+| <img src="/img/vizhis/patient portal.webp" alt="Medical-data-screen" title="medical-data-screen"  />                       |
+<br>
 
 <br>
 
