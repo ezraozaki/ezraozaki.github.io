@@ -48,10 +48,9 @@ Throughout the redesign, I focused on improving clarity and reducing the effort 
 Below are a few examples that illustrate how these goals translated into the product experience
 <br>
 
-| Patient Summary|
-| ------------------------------------------------------------------------------------------------------|
-| Redesigned the patient summary screen to surface the most relevant information upfront. Previously, this data was scattered across different sections. By reorganizing it into a single summary view, clinicians can now understand a patient’s current status and next steps at a glance, without navigating multiple menus.|
-| <img src="/img/vizhis/Patient-summary.jpg" alt="patient-summary-screen" title="patient-summary-screen"  />                       |
+Patient Summary
+Redesigned the patient summary screen to surface the most relevant information upfront. Previously, this data was scattered across different sections. By reorganizing it into a single summary view, clinicians can now understand a patient’s current status and next steps at a glance, without navigating multiple menus.
+<img src="/img/vizhis/Patient-summary.jpg" alt="patient-summary-screen" title="patient-summary-screen"  />                       |
 <br>
 
 | Medical Data - Medical Problems Screen|
