@@ -44,8 +44,8 @@ VizHIS is a Health Information System that helps hospitals and clinics manage pa
 
 # Feature Highlights
 
-| Medical Data — Problem List Screen|
-Organized patient medical problems into a clean, structured layout that surfaces key details first. Clinicians can quickly review active issues, add new entries, or update resolved conditions without scrolling through long, ungrouped lists.
+| Medical Data — Problem List Screen
+Organized patient medical problems into a clean, structured layout that surfaces key details first. Clinicians can quickly review active issues, add new entries, or update resolved conditions without scrolling through long, ungrouped lists.|
 | ------------------------------------------------------------------------------------------------------|
 | <img src="/img/metro/qa-srts-nettricity-cloud-identity-login.png" alt="login" title="log-in-screen"  />                       |
 <br>
