@@ -44,10 +44,16 @@ VizHIS is a Health Information System that helps hospitals and clinics manage pa
 
 # Feature Highlights
 
+| Patient Summary|
+| ------------------------------------------------------------------------------------------------------|
+| Redesigned the patient summary screen to surface the most relevant information upfront. Previously, this data was scattered across different sections. By reorganizing it into a single summary view, clinicians can now understand a patient’s current status and next steps at a glance, without navigating multiple menus.|
+| <img src="/img/vizhis/Patient-summary.jpg" alt="patient-summary-screen" title="patient-summary-screen"  />                       |
+<br>
+
 | Medical Data - Problem List Screen|
 | ------------------------------------------------------------------------------------------------------|
 | Organized patient medical problems into a clean, structured layout that surfaces key details first. Clinicians can quickly review active issues, add new entries, or update resolved conditions without scrolling through long, ungrouped lists.|
-| <img src="/img/vizhis/Medical-data.jpg" alt="Medical-data-screen" title="log-in-screen"  />                       |
+| <img src="/img/vizhis/Medical-data.jpg" alt="Medical-data-screen" title="medical-data-screen"  />                       |
 <br>
 | Dashboard - track KPI by cost center and monitor overdue Service Requests                                       |
 | ------------------------------------------------------------------------------------------------------|
