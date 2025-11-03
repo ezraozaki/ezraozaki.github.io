@@ -35,7 +35,16 @@ Some key features of the portal:
 2. Agency side
    * CSEA staffs can search for Custodial/Non-custodial parent
    * CSEA staffs can unlock Custodial/Non-custodial parent accounts
-   * CSEA staffs have the capability to perform all functions available to customers.
+   * CSEA staffs have the capability to perform all functions available to customers. <br>
+
+**DESIGN APPROACH** <br>
+> My role focused on simplifying complex case data and aligning the visual design with CSEA’s brand and accessibility requirements.  
+
+1. **Early Collaboration** – Joined weekly design sessions with BAs, UXI, and the Product Owner to clarify requirements and define user stories.  
+2. **Interface Modernization** – Introduced a cleaner dashboard layout prioritizing the most frequently accessed actions and data.  
+3. **Accessibility** – Applied WCAG 2.1 standards to color contrast, text hierarchy, and focus states.  
+4. **Component System** – Created a reusable design system in Figma that was later implemented in React for consistent front-end development.  
+5. **Developer Handoff** – Supported the front-end build, integrating UI components in React and collaborating via Git to maintain code quality and alignment with design specs.  
   
 <br>
 
