@@ -35,7 +35,7 @@ Some key features of the portal:
 2. Agency side
    * CSEA staffs can search for Custodial/Non-custodial parent
    * CSEA staffs can unlock Custodial/Non-custodial parent accounts
-   * CSEA staffs have the capability to perform all functions available to customers. <br>
+   * CSEA staffs have the capability to perform all functions available to customers. <br><br>
 
 **DESIGN APPROACH** <br>
 > My role focused on simplifying complex case data and aligning the visual design with CSEA’s brand and accessibility requirements.  
