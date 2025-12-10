@@ -111,19 +111,19 @@ This helped the team maintain quality and consistency as the system evolved.
 
 Even without formal metrics, the redesign led to clear qualitative improvements:
 
-- Improved clarity and usability
+- Improved clarity and usability <br>
 Parents could quickly understand their case information, reducing confusion around balances and payments.
 
-- More efficient staff workflows
+- More efficient staff workflows <br>
 Agency employees could find and manage parent accounts faster due to cleaner layouts and consolidated actions.
 
-- A consistent, scalable design system
+- A consistent, scalable design system <br>
 New features now launch faster thanks to reusable Figma and React components.
 
-- Stronger accessibility compliance
+- Stronger accessibility compliance <br>
 The new portal adheres to WCAG 2.1 AA standards, improving access for all users.
 
-- Increased trust and confidence
+- Increased trust and confidence <br>
 The modern interface helps reinforce the agency’s role as a reliable public service.
 
 <br>
