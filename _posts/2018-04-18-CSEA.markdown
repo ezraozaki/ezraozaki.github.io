@@ -130,7 +130,7 @@ Even without formal metrics, the redesign led to clear qualitative improvements:
 | Before | After |
 |--------|--------|
 | <img src="/img/csea/HIChome.png" alt="Old CSEA" title="Old version" height="150" width="300"/> | <img src="/img/csea/New.png" alt="New CSEA" title="New version" height="180" /> |
-<br>
+
 ## **MOBILE EXPERIENCE**
 
 As part of the modernization effort, the customer portal also needed a mobile experience that allowed parents to quickly access case and payment information on the go. Many users rely primarily on their phones, so the mobile interface became an essential extension of the web platform.
