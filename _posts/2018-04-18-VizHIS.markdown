@@ -36,10 +36,10 @@ VizHIS is a Health Information System that helps hospitals and clinics manage pa
 1. **Early Collaboration**&nbsp;- Joined weekly design sessions with the **BA, other UX designers, and Product Owner** early in the project to clarify requirements, align on user flows, and resolve feature ambiguities before design began.
 2. **Domain Immersion**&nbsp;- Partnered with clinical SMEs to understand terminology, data dependencies, and real-world use cases.
 3. **Information Hierarchy**&nbsp;- Reorganized complex layouts to surface essential information first while reducing cognitive load.
-4. **Accessibility Focus** – Applied WCAG 2.1 standards for color contrast, keyboard navigation, and ARIA labeling.
-5. **Design System Integration** – Created reusable, responsive components to maintain visual consistency and streamline development handoff.
+4. **Accessibility Focus**&nbsp;- Applied WCAG 2.1 standards for color contrast, keyboard navigation, and ARIA labeling.
+5. **Design System Integration**&nbsp;- Created reusable, responsive components to maintain visual consistency and streamline development handoff.
 
-   &nbsp;
+&nbsp;
 <br>
 
 # Feature Highlights
