@@ -12,11 +12,11 @@ preview: /img/csea/icon.png
 CSEA partnered with our team to modernize its aging digital ecosystem. The project included a complete redesign of the **customer web portal**, a **staff-facing agency portal**, and a new **mobile app experience** built to support parents who primarily access services on their phones.
 
 ### **Final Product**
-- **Web Portal:**  
+**Web Portal:**  
   [ag.hawaii.gov/csea](https://ag.hawaii.gov/csea/){:target="_blank"}  
   *(Direct link is not bookmarkable — select the **My Account** button.)*
-
-- **Mobile App (Android):**  
+<br><br>
+**Mobile App (Android):**  
   [Google Play Store – CSEA App](https://play.google.com/store/apps/details?id=com.csea.hawaii){:target="_blank"}
 
 <br>
@@ -86,16 +86,16 @@ The agency wanted the redesign built in React with reusable components. Maintain
 
 ## **DESIGN APPROACH**
 
-### **Collaborating from Day One**
+**Collaborating from Day One** <br>
 I joined weekly refinement sessions with BA and clients. These conversations helped me understand the real friction points parents encountered and the administrative pain points staff felt with the old system.
 
-### **Modernizing the Interface**
+**Modernizing the Interface** <br>
 The legacy portal had grown cluttered over time. I redesigned the homepage to highlight case status, recent payments, and next steps, reducing the number of clicks required to find essential information.
 
-### **Building a Scalable Component System**
+**Building a Scalable Component System** <br>
 I created a reusable component system in Figma—tables, cards, buttons, form elements, and navigation patterns. This system became the backbone of the React front-end library.
 
-### **From Design to Implementation**
+**From Design to Implementation** <br>
 Because I also contributed to the React codebase:
 - I integrated UI components into real screens  
 - Fixed layout inconsistencies  
@@ -130,7 +130,7 @@ The modern interface helps reinforce the agency’s role as a reliable public se
 
 ---
 
-## **BEFORE & AFTER**
+### **BEFORE & AFTER**
 
 | Before | After |
 |--------|--------|
@@ -174,7 +174,7 @@ Parents needed fast access to payments, documents, and cases — but the desktop
 - **Case Details**: Collapsible cards for easier navigation of long content  
 - **Document Viewer**: Simple list structure with PDF download options  
 
-## **Mobile Mockup**
+### **Mobile Mockups**
 
 | Sign In | Home | Payment |
 |----------|-----------------|--------------|
